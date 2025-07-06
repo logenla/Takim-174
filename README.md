@@ -7,7 +7,7 @@
 * Erdem Erçetin: Aktif Olmayan Üye 
 * Selin Karaman: Aktif Olmayan Üye
 * Bedriye Çağlayan: Aktif Olmayan Üye
-
+---
  ## **Ürün İsmi**
 -MediPolice-
 
@@ -57,6 +57,7 @@ Formu doldurur: 38 yaşında, çocuğu 5 yaşında, özel hastane tercihi var, k
 Sistem ona “Aile Planı – Genişletilmiş Teminat” poliçesini önerir. 
 AI, poliçenin özetini sunar: “MR, doğum, muayene dahil; check-up hariç” gibi. 
 Ayşe kararını verir, acenteye ulaşmak için “iletişime geç” butonuna tıklar. 
+---
 ## **Sprint 1**
 
  **Sprint içinde tamamlanması tahmin edilen puan*:80 Puan
