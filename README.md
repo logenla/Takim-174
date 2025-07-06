@@ -1,5 +1,6 @@
-# Takım İsmi
+# **Takım İsmi**
 -Takım 174
-#Üyeler
-İsmail Tekin[ Scrum Master/Developer]
-İhsan Tutak [Product Owner /Developer
+#**Üyeler**
+_İsmail Tekin[ Scrum Master/Developer]_
+_İhsan Tutak [Product Owner /Developer]_
+
