@@ -2,7 +2,7 @@
 -Takım 174
 ## Takım Elemanları
 
-* İsmail Tekin: Scrum Master / Product Owner / Developer
+* İsmail Tekin: Scrum Master / Developer
 * İhsan Tutak: Product Owner /Developer
 * Erdem Erçetin: Aktif Olmayan Üye 
 * Selin Karaman: Aktif Olmayan Üye
