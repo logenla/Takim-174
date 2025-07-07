@@ -83,7 +83,8 @@
 
 ##Sprint Board:
 
- ![image](https://github.com/user-attachments/assets/43885820-cda7-46ea-8dcc-c6716ff468d9)
+![WhatsApp Görsel 2025-07-06 saat 19 20 00_b006e693](https://github.com/user-attachments/assets/f8790e58-d8df-4b1a-87a2-18cef5da4ad3)
+
  * *Sprint Review*: Fikir konusunda netlik sağlanmıştır. Diğer takım üyelerine hiç bir şekilde ulaşılamayıp 2 kişi yapacak şekilde sprintler planlanmıştır. Katılımcılar: İsmail Tekin ve İhsan Tutak
  * *Sprint Retrospective*
  * Takım içinde görev dağılımı yeniden düzenlenmiştir.
