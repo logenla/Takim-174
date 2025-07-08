@@ -79,7 +79,11 @@
  
  **Puan tamamlama mantığı*:Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 Sprinte bölündüğünde ilk sprintin en azından 80 puan ile başlanmasına karar verilmiştir.
  
- **Daily Scrum*: Daily Scrum toplantıları kişilerin eksikliği ve görev çokluğu sebebiyle Whatsapp üzerinden yapılmasına karar verilmiştir.
+ **Daily Scrum*: Daily Scrum toplantıları kişilerin eksikliği ve görev çokluğu sebebiyle her gün yapılmaması kararına verilmiştir.
+ ![WhatsApp Görsel 2025-07-08 saat 19 44 29_dbc5048e](https://github.com/user-attachments/assets/8048b33e-87f0-4511-b52b-543a49c01513)
+ ![image](https://github.com/user-attachments/assets/bd80eefd-e9e7-476a-9c45-a0a6a7b0f2be)
+
+
 
 ##Sprint Board:
 
@@ -90,4 +94,10 @@
  * Takım içinde görev dağılımı yeniden düzenlenmiştir.
  * Gelecek sprintlere verilen görevlerin tamamen uyulması konusuna vurgu yapılmıştır.
  * Daily Scrum Toplantılarının süresi değiştirilmiştir..
+# Sprint Notları
+* Ürün denemeleri yapıldı ve değiştirilmeye karar verildi
+* Ürün dataseti değişkenlikler olmasına karar verildi.
+* Görev tarihlerinde değişiklik yapıldı.
+  #Ürün Deneme Görselli
+  ![WhatsApp Görsel 2025-07-07 saat 20 34 45_436bc8a5](https://github.com/user-attachments/assets/5410244f-849b-4b70-ab91-468d2cbc1ad0)
 
