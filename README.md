@@ -82,6 +82,8 @@
  **Daily Scrum*: Daily Scrum toplantıları kişilerin eksikliği ve görev çokluğu sebebiyle her gün yapılmaması kararına verilmiştir.
  ![WhatsApp Görsel 2025-07-08 saat 19 44 29_dbc5048e](https://github.com/user-attachments/assets/8048b33e-87f0-4511-b52b-543a49c01513)
  ![image](https://github.com/user-attachments/assets/bd80eefd-e9e7-476a-9c45-a0a6a7b0f2be)
+ ![image](https://github.com/user-attachments/assets/ade659d1-7d1c-4474-9793-f1a4c9038690)
+
 
 
 
