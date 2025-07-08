@@ -1,0 +1,1001 @@
+yas,medeni_durum,gelir_seviyesi,calisma_durumu,sigara_kullanimi,hastane_yatisi_son1yil,gunluk_adim_sayisi,kronik_hastalik,saglik_algisi,saglik_harcamasi_endisesi,sigorta_bilgi_duzeyi,sigorta_yaptirma_istegi,gecmiste_sigortasi_var_mi,ailede_hastalik_oykusu,sigorta_motivasyonu,risk_puani,risk_sinifi
+56,Bekâr,0–40K,Çalışıyor,Hayır,Evet,0–3000,Hayır,3,4,3,5,Evet,Evet,Çocukları Düşünme,30,3
+69,Evli,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,5,2,3,1,Hayır,Hayır,Zorunlu Gördüğü İçin,15,2
+46,Evli,40K–80K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,2,3,2,3,Hayır,Hayır,Finansal Güvence,15,2
+32,Evli,120K+,Çalışıyor,Evet,Hayır,3000–7000,Hayır,1,2,3,4,Evet,Hayır,Hastalık Korkusu,15,2
+60,Dul,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,3,4,1,1,Evet,Hayır,Finansal Güvence,15,2
+25,Dul,40K–80K,Öğrenci,Hayır,Hayır,0–3000,Hayır,3,4,4,3,Hayır,Hayır,Zorunlu Gördüğü İçin,15,2
+78,Dul,0–40K,Emekli,Evet,Hayır,3000–7000,Hayır,1,5,1,4,Hayır,Evet,Hastalık Korkusu,40,3
+38,Evli,0–40K,Öğrenci,Hayır,Hayır,7000+,Hayır,5,1,5,2,Evet,Evet,Çocukları Düşünme,5,1
+56,Bekâr,80K–120K,Çalışmıyor,Hayır,Hayır,7000+,Evet,1,5,4,3,Evet,Hayır,Zorunlu Gördüğü İçin,25,2
+75,Evli,40K–80K,Çalışıyor,Evet,Hayır,0–3000,Evet,2,3,3,5,Hayır,Evet,Zorunlu Gördüğü İçin,60,5
+36,Evli,40K–80K,Çalışıyor,Evet,Evet,0–3000,Hayır,1,2,5,1,Hayır,Hayır,Çocukları Düşünme,35,3
+40,Bekâr,40K–80K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,3,3,4,3,Hayır,Hayır,Zorunlu Gördüğü İçin,0,1
+28,Evli,40K–80K,Öğrenci,Hayır,Hayır,0–3000,Hayır,1,4,3,3,Evet,Hayır,Hastalık Korkusu,20,2
+28,Evli,0–40K,Çalışmıyor,Hayır,Hayır,7000+,Hayır,5,5,1,5,Hayır,Hayır,Diğer,5,1
+41,Bekâr,80K–120K,Emekli,Hayır,Hayır,7000+,Hayır,4,5,4,4,Hayır,Evet,Finansal Güvence,10,1
+70,Bekâr,0–40K,Çalışıyor,Evet,Hayır,7000+,Hayır,1,5,3,2,Hayır,Evet,Çocukları Düşünme,40,3
+53,Evli,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,5,3,1,5,Evet,Hayır,Çocukları Düşünme,0,1
+57,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,5,4,5,2,Evet,Evet,Diğer,10,1
+41,Dul,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,3,2,5,4,Hayır,Hayır,Finansal Güvence,15,2
+20,Evli,80K–120K,Emekli,Evet,Hayır,3000–7000,Hayır,5,2,5,3,Hayır,Hayır,Zorunlu Gördüğü İçin,10,1
+39,Dul,0–40K,Çalışıyor,Hayır,Evet,0–3000,Hayır,5,3,5,2,Hayır,Evet,Finansal Güvence,25,2
+70,Dul,0–40K,Emekli,Evet,Evet,3000–7000,Evet,5,5,2,1,Hayır,Hayır,Finansal Güvence,55,4
+19,Bekâr,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,5,1,4,1,Hayır,Evet,Zorunlu Gördüğü İçin,5,1
+41,Evli,40K–80K,Emekli,Evet,Hayır,7000+,Hayır,2,3,4,5,Hayır,Hayır,Finansal Güvence,15,2
+61,Dul,0–40K,Emekli,Evet,Hayır,3000–7000,Hayır,2,3,2,4,Hayır,Hayır,Zorunlu Gördüğü İçin,30,3
+47,Bekâr,120K+,Öğrenci,Evet,Hayır,3000–7000,Hayır,3,4,3,5,Evet,Hayır,Zorunlu Gördüğü İçin,15,2
+55,Evli,0–40K,Çalışmıyor,Evet,Hayır,3000–7000,Hayır,1,2,3,5,Evet,Hayır,Finansal Güvence,15,2
+19,Evli,80K–120K,Öğrenci,Hayır,Hayır,0–3000,Evet,5,3,5,5,Hayır,Hayır,Hastalık Korkusu,25,2
+77,Dul,0–40K,Çalışmıyor,Hayır,Evet,3000–7000,Evet,1,3,1,1,Evet,Hayır,Çocukları Düşünme,45,4
+38,Bekâr,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,1,5,3,1,Hayır,Hayır,Hastalık Korkusu,25,2
+50,Dul,0–40K,Çalışıyor,Evet,Hayır,7000+,Evet,3,5,1,5,Hayır,Hayır,Hastalık Korkusu,30,3
+29,Dul,0–40K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,5,1,4,1,Evet,Hayır,Çocukları Düşünme,10,1
+75,Bekâr,40K–80K,Çalışmıyor,Evet,Evet,0–3000,Hayır,5,4,1,4,Evet,Hayır,Finansal Güvence,50,4
+39,Dul,0–40K,Öğrenci,Evet,Evet,0–3000,Hayır,4,1,4,5,Hayır,Hayır,Zorunlu Gördüğü İçin,30,3
+78,Bekâr,0–40K,Emekli,Hayır,Hayır,3000–7000,Hayır,1,5,2,1,Hayır,Hayır,Hastalık Korkusu,25,2
+61,Bekâr,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,1,2,2,2,Hayır,Hayır,Zorunlu Gördüğü İçin,20,2
+42,Dul,0–40K,Emekli,Evet,Hayır,3000–7000,Hayır,2,5,5,5,Evet,Hayır,Finansal Güvence,20,2
+66,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,4,4,3,5,Hayır,Evet,Diğer,25,2
+44,Dul,0–40K,Çalışıyor,Hayır,Evet,7000+,Evet,2,5,5,4,Hayır,Hayır,Zorunlu Gördüğü İçin,35,3
+76,Bekâr,0–40K,Çalışmıyor,Evet,Hayır,3000–7000,Hayır,2,4,4,3,Hayır,Hayır,Hastalık Korkusu,35,3
+59,Dul,80K–120K,Çalışmıyor,Hayır,Hayır,3000–7000,Evet,2,4,5,3,Evet,Evet,Hastalık Korkusu,30,3
+45,Evli,40K–80K,Emekli,Hayır,Hayır,3000–7000,Hayır,3,4,1,4,Hayır,Hayır,Finansal Güvence,5,1
+77,Evli,80K–120K,Çalışıyor,Evet,Hayır,7000+,Hayır,3,4,4,4,Evet,Hayır,Diğer,30,3
+33,Evli,40K–80K,Emekli,Evet,Hayır,3000–7000,Hayır,2,4,2,4,Evet,Hayır,Hastalık Korkusu,20,2
+32,Evli,80K–120K,Emekli,Evet,Hayır,3000–7000,Hayır,4,2,3,3,Evet,Hayır,Finansal Güvence,10,1
+79,Evli,40K–80K,Çalışmıyor,Evet,Hayır,7000+,Hayır,1,1,4,4,Hayır,Evet,Finansal Güvence,35,3
+79,Evli,0–40K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,4,3,4,1,Evet,Hayır,Hastalık Korkusu,25,2
+64,Evli,40K–80K,Emekli,Hayır,Hayır,7000+,Hayır,5,1,1,5,Hayır,Hayır,Hastalık Korkusu,15,2
+79,Bekâr,120K+,Çalışıyor,Hayır,Hayır,7000+,Hayır,3,4,3,5,Hayır,Evet,Zorunlu Gördüğü İçin,25,2
+68,Bekâr,0–40K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,1,2,2,2,Evet,Hayır,Finansal Güvence,20,2
+61,Bekâr,80K–120K,Çalışıyor,Hayır,Hayır,7000+,Hayır,1,5,4,2,Hayır,Hayır,Finansal Güvence,25,2
+72,Evli,80K–120K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,5,2,4,5,Evet,Hayır,Finansal Güvence,15,2
+69,Evli,40K–80K,Öğrenci,Evet,Hayır,3000–7000,Evet,5,4,1,1,Hayır,Hayır,Zorunlu Gördüğü İçin,45,4
+74,Dul,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,2,2,5,3,Hayır,Hayır,Çocukları Düşünme,20,2
+20,Bekâr,120K+,Öğrenci,Evet,Hayır,3000–7000,Evet,3,2,2,3,Evet,Hayır,Hastalık Korkusu,25,2
+54,Bekâr,0–40K,Çalışıyor,Hayır,Hayır,7000+,Hayır,3,4,3,1,Hayır,Hayır,Hastalık Korkusu,5,1
+68,Evli,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Evet,4,2,4,3,Hayır,Evet,Çocukları Düşünme,35,3
+24,Dul,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Evet,2,3,4,4,Evet,Hayır,Hastalık Korkusu,20,2
+38,Evli,40K–80K,Çalışıyor,Evet,Hayır,7000+,Evet,2,3,2,5,Evet,Hayır,Zorunlu Gördüğü İçin,30,3
+26,Bekâr,40K–80K,Öğrenci,Hayır,Hayır,3000–7000,Evet,2,2,5,5,Hayır,Hayır,Finansal Güvence,20,2
+56,Dul,120K+,Çalışmıyor,Evet,Hayır,0–3000,Evet,2,5,4,1,Hayır,Evet,Zorunlu Gördüğü İçin,50,4
+35,Bekâr,0–40K,Emekli,Evet,Hayır,7000+,Hayır,3,4,2,3,Hayır,Hayır,Diğer,15,2
+21,Bekâr,0–40K,Çalışıyor,Evet,Evet,3000–7000,Hayır,3,3,1,2,Hayır,Evet,Hastalık Korkusu,25,2
+42,Dul,40K–80K,Çalışmıyor,Hayır,Hayır,7000+,Evet,2,5,5,2,Hayır,Hayır,Finansal Güvence,25,2
+77,Dul,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,4,2,3,3,Hayır,Hayır,Zorunlu Gördüğü İçin,15,2
+31,Dul,0–40K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,1,5,4,2,Hayır,Hayır,Diğer,20,2
+67,Evli,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Evet,1,1,2,1,Hayır,Hayır,Finansal Güvence,35,3
+75,Evli,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Evet,4,3,1,1,Hayır,Hayır,Çocukları Düşünme,30,3
+26,Evli,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,2,2,3,3,Hayır,Hayır,Finansal Güvence,5,1
+43,Evli,120K+,Öğrenci,Hayır,Evet,7000+,Hayır,3,4,2,2,Hayır,Evet,Finansal Güvence,20,2
+70,Evli,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,1,2,2,1,Hayır,Hayır,Zorunlu Gördüğü İçin,35,3
+19,Dul,40K–80K,Emekli,Hayır,Evet,0–3000,Evet,5,4,3,1,Hayır,Hayır,Çocukları Düşünme,40,3
+37,Dul,40K–80K,Öğrenci,Hayır,Evet,3000–7000,Hayır,5,2,1,4,Hayır,Hayır,Çocukları Düşünme,10,1
+45,Evli,0–40K,Çalışıyor,Hayır,Evet,3000–7000,Evet,4,5,1,4,Hayır,Hayır,Çocukları Düşünme,30,3
+64,Bekâr,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,2,5,5,1,Evet,Hayır,Çocukları Düşünme,25,2
+77,Bekâr,80K–120K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,1,5,4,3,Hayır,Hayır,Hastalık Korkusu,25,2
+24,Dul,40K–80K,Çalışıyor,Hayır,Evet,7000+,Hayır,2,1,3,5,Hayır,Hayır,Zorunlu Gördüğü İçin,15,2
+61,Bekâr,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,1,4,3,5,Hayır,Evet,Hastalık Korkusu,30,3
+78,Evli,80K–120K,Çalışıyor,Hayır,Evet,3000–7000,Evet,4,5,3,1,Evet,Evet,Zorunlu Gördüğü İçin,50,4
+25,Evli,0–40K,Öğrenci,Evet,Evet,0–3000,Hayır,4,1,1,1,Evet,Evet,Finansal Güvence,35,3
+64,Bekâr,40K–80K,Çalışmıyor,Hayır,Hayır,7000+,Evet,5,4,4,1,Hayır,Hayır,Hastalık Korkusu,35,3
+52,Evli,0–40K,Çalışıyor,Hayır,Hayır,7000+,Hayır,2,2,5,3,Hayır,Hayır,Finansal Güvence,5,1
+31,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Evet,5,1,2,4,Hayır,Hayır,Hastalık Korkusu,15,2
+34,Dul,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,2,3,2,1,Hayır,Hayır,Finansal Güvence,5,1
+53,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,5,1,3,1,Hayır,Evet,Finansal Güvence,15,2
+67,Evli,0–40K,Emekli,Hayır,Hayır,3000–7000,Hayır,3,1,4,2,Hayır,Hayır,Hastalık Korkusu,15,2
+57,Dul,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,3,4,1,3,Hayır,Hayır,Finansal Güvence,5,1
+21,Bekâr,40K–80K,Çalışmıyor,Evet,Hayır,0–3000,Evet,3,2,4,1,Hayır,Hayır,Çocukları Düşünme,35,3
+19,Evli,40K–80K,Çalışmıyor,Hayır,Hayır,7000+,Hayır,3,3,4,2,Hayır,Hayır,Diğer,0,1
+79,Evli,0–40K,Çalışıyor,Evet,Hayır,7000+,Hayır,1,5,1,5,Hayır,Hayır,Finansal Güvence,35,3
+23,Evli,120K+,Emekli,Hayır,Hayır,3000–7000,Evet,3,5,3,1,Hayır,Evet,Hastalık Korkusu,25,2
+71,Bekâr,0–40K,Öğrenci,Hayır,Hayır,7000+,Hayır,4,1,4,1,Evet,Hayır,Çocukları Düşünme,15,2
+59,Dul,80K–120K,Çalışmıyor,Hayır,Hayır,0–3000,Evet,4,4,2,2,Hayır,Evet,Diğer,35,3
+21,Bekâr,0–40K,Çalışıyor,Evet,Hayır,7000+,Hayır,1,4,1,3,Evet,Hayır,Diğer,20,2
+71,Evli,0–40K,Çalışıyor,Hayır,Evet,7000+,Evet,3,5,5,1,Hayır,Evet,Zorunlu Gördüğü İçin,50,4
+46,Bekâr,80K–120K,Emekli,Hayır,Hayır,7000+,Evet,3,3,3,5,Hayır,Evet,Hastalık Korkusu,20,2
+35,Dul,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,3,2,1,1,Evet,Hayır,Finansal Güvence,15,2
+43,Bekâr,40K–80K,Emekli,Hayır,Hayır,0–3000,Hayır,5,3,5,5,Hayır,Hayır,Finansal Güvence,10,1
+61,Dul,40K–80K,Çalışıyor,Hayır,Evet,7000+,Hayır,2,2,5,4,Evet,Evet,Diğer,35,3
+51,Dul,40K–80K,Öğrenci,Hayır,Evet,3000–7000,Hayır,5,5,4,4,Hayır,Hayır,Finansal Güvence,15,2
+27,Evli,40K–80K,Çalışmıyor,Evet,Hayır,7000+,Hayır,2,2,4,5,Hayır,Hayır,Çocukları Düşünme,15,2
+79,Dul,0–40K,Çalışmıyor,Hayır,Evet,3000–7000,Evet,3,4,4,3,Evet,Evet,Finansal Güvence,50,4
+53,Dul,40K–80K,Çalışıyor,Hayır,Evet,0–3000,Evet,3,1,1,1,Hayır,Hayır,Finansal Güvence,35,3
+31,Bekâr,40K–80K,Çalışıyor,Evet,Hayır,7000+,Hayır,5,1,1,1,Evet,Hayır,Hastalık Korkusu,10,1
+48,Evli,80K–120K,Emekli,Hayır,Hayır,3000–7000,Hayır,5,5,3,4,Evet,Hayır,Hastalık Korkusu,5,1
+65,Bekâr,80K–120K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,2,4,4,5,Hayır,Evet,Finansal Güvence,30,3
+32,Evli,80K–120K,Çalışmıyor,Hayır,Hayır,0–3000,Hayır,4,3,5,1,Evet,Evet,Çocukları Düşünme,15,2
+25,Bekâr,120K+,Emekli,Evet,Hayır,3000–7000,Hayır,2,4,2,1,Hayır,Hayır,Finansal Güvence,20,2
+31,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,5,1,3,3,Hayır,Hayır,Hastalık Korkusu,10,1
+40,Dul,40K–80K,Emekli,Hayır,Hayır,3000–7000,Evet,5,1,1,2,Hayır,Evet,Çocukları Düşünme,20,2
+77,Dul,40K–80K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,1,4,3,4,Hayır,Evet,Finansal Güvence,40,3
+74,Evli,0–40K,Emekli,Hayır,Evet,3000–7000,Hayır,5,4,3,4,Hayır,Hayır,Diğer,30,3
+79,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,1,1,3,2,Hayır,Hayır,Finansal Güvence,35,3
+57,Evli,0–40K,Çalışmıyor,Hayır,Hayır,3000–7000,Evet,4,3,3,1,Evet,Evet,Finansal Güvence,20,2
+38,Dul,0–40K,Çalışıyor,Hayır,Hayır,7000+,Evet,2,5,2,3,Hayır,Hayır,Finansal Güvence,25,2
+33,Dul,80K–120K,Çalışmıyor,Evet,Hayır,3000–7000,Hayır,2,5,4,3,Evet,Hayır,Hastalık Korkusu,20,2
+62,Evli,40K–80K,Çalışmıyor,Hayır,Hayır,0–3000,Evet,1,4,5,4,Hayır,Hayır,Zorunlu Gördüğü İçin,50,4
+35,Bekâr,80K–120K,Çalışmıyor,Hayır,Hayır,3000–7000,Evet,2,5,3,3,Hayır,Hayır,Diğer,25,2
+64,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,5,1,3,2,Hayır,Hayır,Çocukları Düşünme,30,3
+70,Evli,80K–120K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,3,1,3,1,Evet,Hayır,Finansal Güvence,25,2
+41,Dul,80K–120K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,1,4,4,2,Evet,Hayır,Çocukları Düşünme,20,2
+43,Bekâr,120K+,Çalışmıyor,Evet,Hayır,0–3000,Hayır,2,4,1,5,Evet,Hayır,Hastalık Korkusu,30,3
+42,Dul,80K–120K,Çalışıyor,Evet,Hayır,3000–7000,Evet,1,4,1,4,Evet,Hayır,Hastalık Korkusu,35,3
+77,Bekâr,40K–80K,Çalışmıyor,Hayır,Hayır,0–3000,Hayır,1,3,2,3,Evet,Hayır,Finansal Güvence,30,3
+77,Evli,40K–80K,Çalışıyor,Hayır,Evet,3000–7000,Evet,3,5,1,5,Evet,Hayır,Finansal Güvence,45,4
+77,Evli,0–40K,Öğrenci,Hayır,Evet,3000–7000,Hayır,5,4,3,3,Evet,Hayır,Çocukları Düşünme,30,3
+62,Evli,120K+,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,1,2,3,1,Evet,Hayır,Zorunlu Gördüğü İçin,20,2
+58,Dul,80K–120K,Emekli,Hayır,Hayır,3000–7000,Hayır,2,2,3,1,Evet,Hayır,Finansal Güvence,5,1
+46,Dul,0–40K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,4,1,2,1,Hayır,Evet,Çocukları Düşünme,5,1
+32,Dul,0–40K,Emekli,Evet,Hayır,0–3000,Hayır,1,5,3,3,Evet,Evet,Finansal Güvence,35,3
+62,Evli,80K–120K,Öğrenci,Evet,Hayır,7000+,Hayır,1,4,1,5,Hayır,Evet,Zorunlu Gördüğü İçin,40,3
+18,Evli,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,3,2,4,1,Evet,Evet,Hastalık Korkusu,15,2
+42,Dul,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,5,5,4,5,Evet,Hayır,Diğer,5,1
+24,Dul,0–40K,Çalışıyor,Hayır,Hayır,0–3000,Evet,4,1,5,3,Evet,Hayır,Finansal Güvence,25,2
+26,Evli,80K–120K,Çalışıyor,Evet,Hayır,3000–7000,Evet,2,3,1,5,Evet,Hayır,Zorunlu Gördüğü İçin,30,3
+41,Bekâr,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,4,5,3,3,Evet,Evet,Hastalık Korkusu,10,1
+18,Evli,40K–80K,Emekli,Hayır,Hayır,3000–7000,Hayır,2,5,4,3,Hayır,Hayır,Finansal Güvence,10,1
+61,Dul,0–40K,Çalışıyor,Evet,Hayır,0–3000,Hayır,5,3,1,4,Evet,Hayır,Finansal Güvence,35,3
+25,Dul,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,2,5,4,3,Evet,Hayır,Finansal Güvence,25,2
+41,Evli,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,3,1,3,3,Hayır,Hayır,Çocukları Düşünme,0,1
+28,Bekâr,80K–120K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,3,1,4,2,Evet,Evet,Hastalık Korkusu,15,2
+68,Bekâr,0–40K,Çalışmıyor,Evet,Hayır,0–3000,Evet,3,3,5,1,Evet,Evet,Çocukları Düşünme,55,4
+34,Evli,40K–80K,Öğrenci,Hayır,Evet,3000–7000,Hayır,3,4,5,4,Hayır,Hayır,Finansal Güvence,15,2
+25,Dul,40K–80K,Çalışıyor,Hayır,Evet,0–3000,Hayır,4,2,4,4,Hayır,Hayır,Çocukları Düşünme,20,2
+52,Bekâr,40K–80K,Çalışmıyor,Evet,Evet,3000–7000,Evet,5,4,1,4,Hayır,Hayır,Finansal Güvence,40,3
+52,Evli,80K–120K,Emekli,Hayır,Hayır,3000–7000,Evet,2,5,1,2,Hayır,Hayır,Hastalık Korkusu,25,2
+50,Bekâr,80K–120K,Çalışmıyor,Hayır,Hayır,7000+,Hayır,2,2,1,3,Evet,Hayır,Zorunlu Gördüğü İçin,5,1
+76,Dul,40K–80K,Emekli,Evet,Hayır,3000–7000,Hayır,3,3,4,1,Evet,Hayır,Çocukları Düşünme,25,2
+22,Evli,0–40K,Emekli,Hayır,Hayır,3000–7000,Evet,3,3,1,5,Evet,Hayır,Hastalık Korkusu,15,2
+59,Evli,0–40K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,1,2,3,3,Hayır,Hayır,Çocukları Düşünme,15,2
+56,Dul,0–40K,Çalışıyor,Hayır,Hayır,7000+,Hayır,5,1,5,2,Hayır,Hayır,Çocukları Düşünme,0,1
+75,Bekâr,40K–80K,Çalışmıyor,Hayır,Hayır,7000+,Evet,4,2,3,3,Hayır,Evet,Finansal Güvence,35,3
+58,Bekâr,40K–80K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,2,5,1,3,Hayır,Hayır,Diğer,20,2
+45,Bekâr,0–40K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,1,1,3,2,Evet,Hayır,Diğer,15,2
+24,Evli,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,1,3,1,4,Hayır,Hayır,Çocukları Düşünme,5,1
+26,Evli,40K–80K,Çalışıyor,Hayır,Evet,7000+,Hayır,2,2,4,4,Evet,Evet,Çocukları Düşünme,20,2
+25,Bekâr,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Evet,4,4,3,1,Hayır,Hayır,Finansal Güvence,30,3
+29,Bekâr,0–40K,Emekli,Evet,Hayır,0–3000,Hayır,1,4,4,1,Hayır,Hayır,Hastalık Korkusu,30,3
+51,Evli,80K–120K,Çalışmıyor,Hayır,Evet,7000+,Hayır,1,5,4,4,Evet,Hayır,Finansal Güvence,20,2
+50,Evli,0–40K,Emekli,Hayır,Hayır,7000+,Hayır,5,4,2,5,Hayır,Hayır,Hastalık Korkusu,5,1
+65,Evli,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,4,2,1,3,Hayır,Hayır,Zorunlu Gördüğü İçin,15,2
+72,Bekâr,0–40K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,1,2,5,5,Evet,Evet,Hastalık Korkusu,25,2
+40,Evli,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,4,4,1,3,Hayır,Hayır,Diğer,5,1
+79,Dul,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,2,2,5,4,Evet,Hayır,Finansal Güvence,20,2
+41,Dul,40K–80K,Emekli,Evet,Hayır,3000–7000,Hayır,3,5,1,1,Hayır,Hayır,Finansal Güvence,15,2
+54,Evli,0–40K,Emekli,Hayır,Hayır,3000–7000,Hayır,1,1,4,1,Evet,Hayır,Hastalık Korkusu,5,1
+52,Evli,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,5,5,3,5,Hayır,Hayır,Finansal Güvence,5,1
+61,Dul,40K–80K,Çalışıyor,Evet,Hayır,7000+,Hayır,2,5,3,1,Evet,Hayır,Zorunlu Gördüğü İçin,35,3
+57,Evli,0–40K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,4,2,2,4,Hayır,Evet,Hastalık Korkusu,15,2
+39,Evli,40K–80K,Öğrenci,Hayır,Hayır,7000+,Hayır,2,1,5,5,Hayır,Hayır,Finansal Güvence,5,1
+44,Dul,0–40K,Emekli,Evet,Hayır,3000–7000,Hayır,1,2,5,3,Hayır,Hayır,Diğer,15,2
+52,Bekâr,0–40K,Çalışmıyor,Evet,Hayır,3000–7000,Hayır,4,3,5,1,Hayır,Hayır,Hastalık Korkusu,10,1
+18,Bekâr,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,3,2,4,2,Hayır,Hayır,Hastalık Korkusu,15,2
+52,Dul,40K–80K,Öğrenci,Hayır,Hayır,7000+,Hayır,2,2,5,1,Hayır,Hayır,Diğer,5,1
+54,Dul,0–40K,Çalışıyor,Evet,Hayır,7000+,Hayır,1,2,3,3,Evet,Hayır,Finansal Güvence,15,2
+64,Evli,80K–120K,Öğrenci,Hayır,Evet,3000–7000,Hayır,5,1,4,5,Hayır,Hayır,Finansal Güvence,25,2
+31,Evli,0–40K,Çalışmıyor,Hayır,Evet,0–3000,Evet,4,2,1,3,Hayır,Hayır,Hastalık Korkusu,35,3
+20,Bekâr,40K–80K,Emekli,Hayır,Hayır,3000–7000,Evet,2,1,5,2,Evet,Hayır,Finansal Güvence,20,2
+18,Bekâr,80K–120K,Emekli,Evet,Hayır,3000–7000,Evet,2,4,5,4,Hayır,Hayır,Finansal Güvence,35,3
+22,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,3,3,1,1,Evet,Evet,Diğer,20,2
+43,Dul,80K–120K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,3,1,5,5,Hayır,Hayır,Diğer,10,1
+72,Dul,80K–120K,Çalışıyor,Hayır,Hayır,7000+,Hayır,5,4,1,4,Hayır,Hayır,Çocukları Düşünme,20,2
+31,Dul,0–40K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,5,1,4,3,Hayır,Hayır,Hastalık Korkusu,10,1
+56,Evli,80K–120K,Emekli,Evet,Evet,0–3000,Hayır,1,1,3,5,Hayır,Evet,Zorunlu Gördüğü İçin,40,3
+44,Bekâr,0–40K,Çalışıyor,Hayır,Hayır,0–3000,Evet,1,3,1,4,Evet,Hayır,Hastalık Korkusu,30,3
+26,Bekâr,0–40K,Emekli,Hayır,Hayır,7000+,Hayır,5,5,2,5,Evet,Evet,Zorunlu Gördüğü İçin,10,1
+32,Dul,120K+,Çalışıyor,Evet,Hayır,7000+,Evet,5,5,1,2,Hayır,Hayır,Finansal Güvence,30,3
+32,Evli,80K–120K,Emekli,Hayır,Hayır,3000–7000,Evet,4,1,5,2,Hayır,Hayır,Zorunlu Gördüğü İçin,15,2
+43,Evli,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,3,2,4,1,Hayır,Hayır,Çocukları Düşünme,0,1
+59,Bekâr,40K–80K,Öğrenci,Hayır,Hayır,7000+,Hayır,1,4,4,1,Evet,Hayır,Çocukları Düşünme,10,1
+77,Bekâr,80K–120K,Emekli,Evet,Hayır,3000–7000,Hayır,3,2,1,2,Hayır,Hayır,Finansal Güvence,25,2
+30,Evli,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Evet,3,2,3,5,Hayır,Hayır,Finansal Güvence,15,2
+68,Evli,0–40K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,5,1,2,2,Evet,Hayır,Finansal Güvence,15,2
+49,Dul,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,4,1,4,1,Evet,Hayır,Finansal Güvence,0,1
+56,Bekâr,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,2,1,5,2,Evet,Hayır,Finansal Güvence,15,2
+66,Dul,80K–120K,Emekli,Hayır,Hayır,7000+,Hayır,4,1,5,2,Evet,Hayır,Zorunlu Gördüğü İçin,15,2
+69,Bekâr,40K–80K,Çalışıyor,Evet,Evet,3000–7000,Hayır,4,5,3,5,Hayır,Hayır,Hastalık Korkusu,40,3
+78,Evli,80K–120K,Emekli,Hayır,Hayır,3000–7000,Hayır,3,1,4,4,Evet,Hayır,Hastalık Korkusu,15,2
+49,Dul,120K+,Öğrenci,Hayır,Hayır,7000+,Hayır,4,5,1,1,Hayır,Hayır,Finansal Güvence,5,1
+21,Dul,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,1,5,5,5,Hayır,Evet,Hastalık Korkusu,30,3
+47,Dul,80K–120K,Emekli,Hayır,Hayır,7000+,Hayır,3,1,3,2,Hayır,Hayır,Çocukları Düşünme,0,1
+54,Dul,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,1,3,4,2,Evet,Evet,Finansal Güvence,10,1
+40,Dul,40K–80K,Çalışıyor,Evet,Hayır,7000+,Hayır,2,4,4,4,Hayır,Hayır,Finansal Güvence,20,2
+56,Evli,40K–80K,Öğrenci,Hayır,Evet,3000–7000,Hayır,3,2,4,1,Evet,Hayır,Zorunlu Gördüğü İçin,10,1
+62,Bekâr,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,2,5,4,1,Evet,Evet,Çocukları Düşünme,40,3
+32,Evli,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,3,4,4,3,Hayır,Hayır,Finansal Güvence,5,1
+60,Bekâr,40K–80K,Öğrenci,Hayır,Hayır,0–3000,Evet,5,3,5,1,Hayır,Hayır,Finansal Güvence,25,2
+46,Evli,40K–80K,Çalışıyor,Evet,Hayır,7000+,Hayır,4,2,3,4,Evet,Hayır,Çocukları Düşünme,10,1
+53,Bekâr,0–40K,Çalışmıyor,Hayır,Evet,3000–7000,Hayır,5,2,4,3,Hayır,Hayır,Diğer,10,1
+30,Dul,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,2,5,2,3,Evet,Hayır,Zorunlu Gördüğü İçin,10,1
+49,Evli,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,4,1,2,2,Hayır,Hayır,Diğer,0,1
+24,Dul,40K–80K,Çalışmıyor,Evet,Hayır,3000–7000,Hayır,3,3,3,2,Hayır,Evet,Zorunlu Gördüğü İçin,15,2
+76,Bekâr,120K+,Emekli,Evet,Hayır,3000–7000,Evet,4,5,1,1,Evet,Evet,Hastalık Korkusu,50,4
+68,Bekâr,40K–80K,Emekli,Hayır,Hayır,7000+,Hayır,1,3,1,3,Hayır,Hayır,Çocukları Düşünme,20,2
+39,Dul,80K–120K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,4,1,1,2,Hayır,Evet,Çocukları Düşünme,15,2
+45,Dul,80K–120K,Çalışıyor,Hayır,Hayır,7000+,Evet,1,1,2,4,Evet,Evet,Finansal Güvence,25,2
+19,Bekâr,80K–120K,Emekli,Hayır,Hayır,0–3000,Hayır,4,5,1,2,Hayır,Evet,Finansal Güvence,20,2
+59,Dul,0–40K,Çalışmıyor,Hayır,Hayır,0–3000,Hayır,1,1,5,2,Hayır,Hayır,Zorunlu Gördüğü İçin,15,2
+62,Evli,0–40K,Emekli,Hayır,Hayır,7000+,Hayır,2,4,4,3,Hayır,Hayır,Diğer,25,2
+79,Evli,0–40K,Çalışıyor,Hayır,Hayır,7000+,Hayır,5,2,2,3,Hayır,Evet,Hastalık Korkusu,20,2
+74,Dul,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,3,5,3,5,Hayır,Hayır,Finansal Güvence,30,3
+70,Bekâr,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,4,3,3,4,Hayır,Hayır,Çocukları Düşünme,15,2
+23,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,5,4,4,3,Hayır,Hayır,Hastalık Korkusu,5,1
+45,Dul,0–40K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,3,5,2,1,Hayır,Hayır,Finansal Güvence,15,2
+45,Evli,80K–120K,Çalışıyor,Hayır,Hayır,7000+,Hayır,3,1,1,4,Hayır,Evet,Finansal Güvence,5,1
+61,Bekâr,40K–80K,Çalışıyor,Evet,Evet,7000+,Hayır,1,1,1,4,Hayır,Hayır,Hastalık Korkusu,40,3
+61,Bekâr,80K–120K,Çalışıyor,Hayır,Evet,7000+,Hayır,2,1,5,3,Evet,Hayır,Finansal Güvence,30,3
+37,Dul,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,2,1,5,4,Evet,Hayır,Finansal Güvence,5,1
+47,Evli,40K–80K,Çalışmıyor,Hayır,Hayır,0–3000,Hayır,5,3,1,3,Hayır,Hayır,Hastalık Korkusu,10,1
+79,Dul,120K+,Çalışıyor,Hayır,Evet,0–3000,Hayır,2,4,3,2,Hayır,Evet,Finansal Güvence,50,4
+28,Evli,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Evet,4,2,3,5,Hayır,Hayır,Hastalık Korkusu,25,2
+75,Evli,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,2,3,5,2,Evet,Evet,Diğer,40,3
+72,Bekâr,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,5,3,4,3,Hayır,Evet,Diğer,30,3
+45,Dul,80K–120K,Çalışmıyor,Evet,Hayır,3000–7000,Hayır,2,2,1,3,Hayır,Hayır,Finansal Güvence,15,2
+42,Evli,40K–80K,Çalışıyor,Evet,Evet,0–3000,Hayır,4,2,5,2,Evet,Hayır,Zorunlu Gördüğü İçin,30,3
+56,Evli,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,1,1,5,1,Evet,Hayır,Çocukları Düşünme,20,2
+79,Dul,0–40K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,5,3,1,1,Hayır,Hayır,Çocukları Düşünme,25,2
+50,Evli,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,1,5,1,1,Hayır,Hayır,Hastalık Korkusu,10,1
+18,Bekâr,40K–80K,Çalışıyor,Evet,Evet,7000+,Evet,1,2,3,3,Evet,Hayır,Finansal Güvence,40,3
+74,Bekâr,0–40K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,1,2,4,4,Hayır,Evet,Hastalık Korkusu,25,2
+44,Bekâr,0–40K,Öğrenci,Hayır,Hayır,7000+,Hayır,3,4,4,3,Hayır,Evet,Finansal Güvence,10,1
+79,Bekâr,40K–80K,Öğrenci,Evet,Hayır,3000–7000,Hayır,3,5,1,4,Hayır,Hayır,Zorunlu Gördüğü İçin,30,3
+74,Bekâr,40K–80K,Çalışmıyor,Evet,Hayır,7000+,Hayır,1,5,2,2,Evet,Hayır,Finansal Güvence,35,3
+69,Dul,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,5,2,5,5,Evet,Hayır,Zorunlu Gördüğü İçin,30,3
+30,Evli,0–40K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,4,1,5,4,Evet,Hayır,Zorunlu Gördüğü İçin,10,1
+58,Dul,80K–120K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,4,4,1,1,Hayır,Hayır,Finansal Güvence,15,2
+20,Evli,0–40K,Çalışıyor,Hayır,Hayır,7000+,Hayır,2,5,2,3,Evet,Hayır,Hastalık Korkusu,10,1
+56,Bekâr,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,5,2,3,2,Evet,Hayır,Diğer,15,2
+23,Dul,80K–120K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,3,5,1,1,Hayır,Hayır,Finansal Güvence,15,2
+25,Evli,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,1,4,1,2,Evet,Hayır,Hastalık Korkusu,10,1
+44,Evli,40K–80K,Çalışıyor,Hayır,Evet,3000–7000,Evet,2,4,5,5,Hayır,Hayır,Hastalık Korkusu,35,3
+26,Dul,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,4,3,1,3,Evet,Hayır,Finansal Güvence,0,1
+79,Evli,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,3,2,1,3,Hayır,Evet,Zorunlu Gördüğü İçin,30,3
+54,Bekâr,80K–120K,Çalışıyor,Evet,Hayır,7000+,Hayır,3,4,1,5,Evet,Hayır,Zorunlu Gördüğü İçin,15,2
+50,Dul,80K–120K,Çalışıyor,Hayır,Hayır,7000+,Hayır,1,3,5,3,Evet,Hayır,Çocukları Düşünme,5,1
+68,Dul,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,4,3,3,4,Hayır,Evet,Finansal Güvence,20,2
+59,Evli,80K–120K,Çalışmıyor,Evet,Hayır,7000+,Hayır,5,5,3,2,Hayır,Evet,Diğer,20,2
+61,Evli,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,3,5,1,1,Evet,Hayır,Diğer,20,2
+41,Evli,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,1,3,5,5,Evet,Hayır,Hastalık Korkusu,5,1
+32,Dul,40K–80K,Çalışıyor,Evet,Hayır,7000+,Hayır,5,5,3,4,Hayır,Hayır,Diğer,15,2
+76,Dul,0–40K,Öğrenci,Hayır,Evet,3000–7000,Hayır,4,4,3,1,Evet,Evet,Hastalık Korkusu,35,3
+71,Dul,0–40K,Çalışıyor,Evet,Evet,3000–7000,Hayır,3,1,3,1,Hayır,Hayır,Çocukları Düşünme,35,3
+49,Bekâr,0–40K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,5,4,5,5,Hayır,Hayır,Zorunlu Gördüğü İçin,5,1
+49,Evli,80K–120K,Emekli,Hayır,Hayır,3000–7000,Hayır,5,3,5,4,Hayır,Evet,Zorunlu Gördüğü İçin,5,1
+41,Dul,40K–80K,Çalışıyor,Hayır,Evet,3000–7000,Evet,5,3,1,1,Hayır,Hayır,Çocukları Düşünme,25,2
+58,Dul,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,3,4,4,1,Hayır,Hayır,Hastalık Korkusu,5,1
+69,Bekâr,40K–80K,Emekli,Hayır,Hayır,3000–7000,Hayır,3,5,3,4,Hayır,Evet,Çocukları Düşünme,25,2
+66,Dul,0–40K,Emekli,Hayır,Evet,0–3000,Hayır,2,5,4,3,Hayır,Hayır,Diğer,45,4
+79,Bekâr,0–40K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,4,3,5,1,Hayır,Hayır,Hastalık Korkusu,15,2
+66,Evli,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,1,2,5,2,Evet,Hayır,Diğer,20,2
+75,Dul,40K–80K,Çalışıyor,Evet,Hayır,7000+,Hayır,5,5,5,4,Evet,Hayır,Finansal Güvence,30,3
+69,Evli,40K–80K,Öğrenci,Evet,Hayır,0–3000,Hayır,2,4,4,1,Evet,Evet,Finansal Güvence,50,4
+29,Bekâr,0–40K,Çalışıyor,Evet,Hayır,7000+,Hayır,1,5,5,5,Evet,Evet,Hastalık Korkusu,25,2
+79,Dul,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,2,4,1,2,Hayır,Hayır,Zorunlu Gördüğü İçin,35,3
+56,Evli,0–40K,Öğrenci,Hayır,Hayır,0–3000,Hayır,3,3,5,1,Evet,Hayır,Finansal Güvence,10,1
+19,Evli,40K–80K,Öğrenci,Hayır,Hayır,0–3000,Hayır,5,5,2,2,Hayır,Evet,Çocukları Düşünme,20,2
+20,Evli,40K–80K,Çalışıyor,Evet,Hayır,0–3000,Hayır,1,4,4,2,Hayır,Hayır,Zorunlu Gördüğü İçin,30,3
+66,Bekâr,40K–80K,Çalışmıyor,Hayır,Evet,7000+,Hayır,1,3,2,3,Evet,Evet,Zorunlu Gördüğü İçin,35,3
+54,Evli,80K–120K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,1,2,5,2,Hayır,Hayır,Çocukları Düşünme,15,2
+66,Bekâr,40K–80K,Çalışmıyor,Evet,Hayır,3000–7000,Evet,1,4,1,3,Hayır,Hayır,Finansal Güvence,50,4
+73,Dul,0–40K,Çalışıyor,Hayır,Hayır,7000+,Hayır,1,2,3,4,Hayır,Hayır,Çocukları Düşünme,20,2
+34,Evli,0–40K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,2,2,5,3,Hayır,Hayır,Diğer,15,2
+76,Bekâr,40K–80K,Emekli,Hayır,Hayır,3000–7000,Evet,5,1,1,5,Evet,Hayır,Hastalık Korkusu,30,3
+66,Evli,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,3,5,4,1,Hayır,Hayır,Hastalık Korkusu,20,2
+19,Bekâr,80K–120K,Çalışıyor,Hayır,Evet,3000–7000,Evet,3,4,2,4,Hayır,Hayır,Finansal Güvence,30,3
+19,Dul,40K–80K,Çalışmıyor,Evet,Evet,7000+,Hayır,3,2,2,4,Hayır,Hayır,Çocukları Düşünme,20,2
+45,Dul,120K+,Çalışmıyor,Evet,Hayır,3000–7000,Evet,3,1,2,5,Hayır,Evet,Çocukları Düşünme,30,3
+71,Evli,80K–120K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,2,3,4,3,Hayır,Hayır,Hastalık Korkusu,20,2
+40,Bekâr,40K–80K,Çalışmıyor,Hayır,Hayır,0–3000,Evet,4,4,1,1,Evet,Hayır,Çocukları Düşünme,30,3
+54,Evli,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,5,2,4,3,Hayır,Hayır,Diğer,0,1
+49,Evli,0–40K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,1,5,2,2,Hayır,Evet,Hastalık Korkusu,15,2
+50,Dul,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,4,1,5,3,Hayır,Hayır,Finansal Güvence,15,2
+18,Bekâr,120K+,Emekli,Evet,Hayır,3000–7000,Hayır,3,2,3,4,Evet,Evet,Çocukları Düşünme,15,2
+36,Evli,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,4,5,4,1,Hayır,Hayır,Hastalık Korkusu,15,2
+79,Dul,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,5,2,4,3,Hayır,Hayır,Finansal Güvence,15,2
+19,Bekâr,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,1,4,1,1,Evet,Evet,Çocukları Düşünme,15,2
+70,Bekâr,120K+,Emekli,Hayır,Hayır,7000+,Hayır,1,4,1,1,Hayır,Evet,Finansal Güvence,30,3
+61,Evli,40K–80K,Emekli,Evet,Hayır,3000–7000,Hayır,5,4,4,2,Hayır,Evet,Hastalık Korkusu,35,3
+43,Evli,40K–80K,Çalışıyor,Evet,Evet,3000–7000,Evet,5,1,2,2,Evet,Evet,Zorunlu Gördüğü İçin,40,3
+49,Dul,80K–120K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,3,4,3,4,Evet,Hayır,Finansal Güvence,15,2
+23,Dul,80K–120K,Çalışmıyor,Evet,Hayır,3000–7000,Hayır,1,5,1,5,Hayır,Hayır,Finansal Güvence,20,2
+49,Bekâr,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,4,2,2,1,Hayır,Evet,Hastalık Korkusu,15,2
+72,Dul,80K–120K,Çalışmıyor,Hayır,Hayır,7000+,Hayır,2,3,5,5,Evet,Hayır,Zorunlu Gördüğü İçin,20,2
+21,Bekâr,80K–120K,Emekli,Hayır,Hayır,3000–7000,Evet,2,5,1,4,Evet,Hayır,Zorunlu Gördüğü İçin,25,2
+72,Evli,40K–80K,Emekli,Hayır,Evet,7000+,Evet,5,5,2,1,Evet,Hayır,Zorunlu Gördüğü İçin,45,4
+28,Evli,40K–80K,Çalışıyor,Hayır,Evet,0–3000,Hayır,3,4,2,1,Hayır,Hayır,Çocukları Düşünme,25,2
+73,Evli,40K–80K,Öğrenci,Hayır,Evet,3000–7000,Hayır,2,1,3,5,Evet,Hayır,Finansal Güvence,30,3
+76,Dul,40K–80K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,1,2,3,3,Hayır,Hayır,Diğer,30,3
+34,Dul,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Evet,5,1,5,2,Hayır,Evet,Çocukları Düşünme,30,3
+55,Dul,40K–80K,Çalışmıyor,Hayır,Hayır,7000+,Hayır,4,2,2,3,Hayır,Hayır,Çocukları Düşünme,0,1
+41,Dul,0–40K,Öğrenci,Hayır,Evet,7000+,Hayır,5,2,2,5,Evet,Hayır,Çocukları Düşünme,10,1
+22,Evli,0–40K,Çalışmıyor,Evet,Hayır,7000+,Hayır,4,1,3,2,Evet,Hayır,Hastalık Korkusu,10,1
+69,Evli,120K+,Çalışmıyor,Hayır,Hayır,7000+,Hayır,5,5,1,3,Evet,Hayır,Finansal Güvence,20,2
+51,Evli,40K–80K,Emekli,Evet,Evet,3000–7000,Hayır,5,2,1,2,Evet,Hayır,Çocukları Düşünme,20,2
+23,Dul,0–40K,Çalışıyor,Evet,Hayır,0–3000,Hayır,5,1,4,1,Hayır,Hayır,Hastalık Korkusu,20,2
+39,Dul,0–40K,Emekli,Hayır,Evet,7000+,Hayır,4,2,3,3,Evet,Hayır,Finansal Güvence,10,1
+28,Bekâr,0–40K,Çalışmıyor,Evet,Hayır,0–3000,Hayır,4,3,4,2,Hayır,Hayır,Zorunlu Gördüğü İçin,20,2
+65,Bekâr,80K–120K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,5,5,3,2,Hayır,Hayır,Hastalık Korkusu,20,2
+33,Evli,0–40K,Çalışıyor,Hayır,Hayır,7000+,Hayır,2,4,5,2,Hayır,Hayır,Finansal Güvence,10,1
+50,Dul,80K–120K,Emekli,Hayır,Hayır,7000+,Hayır,3,2,2,3,Hayır,Hayır,Finansal Güvence,0,1
+26,Dul,80K–120K,Çalışmıyor,Evet,Hayır,0–3000,Hayır,3,3,5,4,Evet,Hayır,Zorunlu Gördüğü İçin,20,2
+77,Dul,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,3,4,3,3,Evet,Evet,Finansal Güvence,40,3
+76,Dul,0–40K,Çalışmıyor,Hayır,Evet,7000+,Evet,4,4,2,5,Evet,Evet,Finansal Güvence,50,4
+23,Dul,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,4,2,1,3,Evet,Hayır,Hastalık Korkusu,0,1
+33,Evli,80K–120K,Öğrenci,Hayır,Evet,0–3000,Hayır,2,1,1,2,Evet,Evet,Hastalık Korkusu,30,3
+46,Dul,0–40K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,3,2,4,1,Evet,Evet,Diğer,5,1
+20,Evli,40K–80K,Çalışıyor,Evet,Hayır,7000+,Hayır,3,3,3,3,Evet,Evet,Hastalık Korkusu,15,2
+37,Dul,0–40K,Emekli,Evet,Hayır,3000–7000,Hayır,5,4,3,3,Hayır,Hayır,Çocukları Düşünme,15,2
+77,Dul,80K–120K,Öğrenci,Hayır,Hayır,3000–7000,Evet,4,2,1,2,Hayır,Hayır,Finansal Güvence,30,3
+76,Dul,80K–120K,Çalışıyor,Evet,Hayır,3000–7000,Evet,3,1,5,1,Hayır,Hayır,Finansal Güvence,40,3
+53,Dul,80K–120K,Çalışıyor,Hayır,Hayır,7000+,Hayır,2,2,2,1,Hayır,Evet,Diğer,10,1
+36,Evli,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,2,5,5,5,Hayır,Hayır,Zorunlu Gördüğü İçin,10,1
+43,Dul,40K–80K,Çalışmıyor,Evet,Hayır,7000+,Hayır,3,1,5,3,Hayır,Evet,Hastalık Korkusu,15,2
+20,Evli,40K–80K,Çalışmıyor,Hayır,Hayır,7000+,Hayır,4,3,1,1,Hayır,Hayır,Hastalık Korkusu,0,1
+36,Dul,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,2,4,1,1,Evet,Evet,Hastalık Korkusu,15,2
+37,Dul,0–40K,Çalışmıyor,Evet,Evet,0–3000,Hayır,5,2,1,4,Evet,Evet,Çocukları Düşünme,35,3
+49,Evli,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Evet,2,1,4,4,Evet,Hayır,Çocukları Düşünme,20,2
+24,Dul,0–40K,Çalışıyor,Hayır,Hayır,7000+,Evet,1,5,5,1,Evet,Hayır,Hastalık Korkusu,25,2
+69,Bekâr,80K–120K,Emekli,Evet,Hayır,7000+,Evet,1,1,3,5,Hayır,Hayır,Diğer,45,4
+58,Evli,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,4,5,2,1,Evet,Evet,Diğer,10,1
+50,Dul,40K–80K,Çalışmıyor,Hayır,Hayır,0–3000,Hayır,3,3,4,2,Evet,Evet,Finansal Güvence,15,2
+57,Evli,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,4,4,3,3,Hayır,Hayır,Çocukları Düşünme,15,2
+56,Evli,80K–120K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,4,3,5,5,Hayır,Hayır,Finansal Güvence,10,1
+35,Evli,40K–80K,Çalışıyor,Evet,Hayır,0–3000,Hayır,4,2,1,2,Evet,Hayır,Hastalık Korkusu,20,2
+57,Evli,80K–120K,Çalışıyor,Evet,Hayır,7000+,Evet,4,1,5,5,Hayır,Evet,Çocukları Düşünme,30,3
+18,Dul,40K–80K,Öğrenci,Hayır,Hayır,7000+,Evet,5,5,2,2,Evet,Hayır,Diğer,20,2
+28,Dul,120K+,Çalışıyor,Hayır,Hayır,3000–7000,Evet,5,5,4,3,Hayır,Hayır,Hastalık Korkusu,20,2
+45,Evli,120K+,Öğrenci,Hayır,Hayır,3000–7000,Hayır,2,1,4,3,Hayır,Hayır,Hastalık Korkusu,5,1
+74,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,1,1,2,4,Evet,Evet,Hastalık Korkusu,35,3
+42,Bekâr,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,4,2,3,2,Evet,Hayır,Finansal Güvence,0,1
+67,Dul,40K–80K,Çalışıyor,Hayır,Evet,7000+,Evet,2,3,3,4,Evet,Hayır,Hastalık Korkusu,45,4
+40,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,1,5,4,2,Hayır,Hayır,Zorunlu Gördüğü İçin,10,1
+48,Dul,120K+,Çalışıyor,Hayır,Hayır,0–3000,Hayır,3,2,4,4,Evet,Hayır,Hastalık Korkusu,10,1
+47,Evli,80K–120K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,5,3,1,3,Hayır,Hayır,Hastalık Korkusu,10,1
+59,Dul,80K–120K,Çalışıyor,Hayır,Hayır,7000+,Evet,1,2,3,5,Hayır,Evet,Finansal Güvence,25,2
+52,Evli,0–40K,Çalışmıyor,Hayır,Evet,0–3000,Hayır,3,5,2,4,Evet,Hayır,Hastalık Korkusu,25,2
+24,Dul,0–40K,Çalışıyor,Hayır,Hayır,0–3000,Evet,1,1,3,2,Evet,Hayır,Çocukları Düşünme,30,3
+77,Evli,40K–80K,Çalışıyor,Evet,Hayır,0–3000,Hayır,5,1,1,2,Hayır,Evet,Diğer,40,3
+33,Evli,80K–120K,Emekli,Hayır,Hayır,3000–7000,Hayır,5,3,4,3,Hayır,Hayır,Finansal Güvence,0,1
+43,Bekâr,40K–80K,Çalışıyor,Evet,Evet,0–3000,Hayır,2,4,4,2,Hayır,Evet,Finansal Güvence,45,4
+65,Dul,0–40K,Emekli,Hayır,Hayır,3000–7000,Hayır,4,3,1,1,Evet,Evet,Diğer,20,2
+74,Evli,80K–120K,Çalışmıyor,Hayır,Hayır,7000+,Hayır,1,4,2,5,Hayır,Evet,Finansal Güvence,30,3
+69,Bekâr,80K–120K,Çalışmıyor,Evet,Hayır,3000–7000,Hayır,1,2,4,4,Hayır,Hayır,Çocukları Düşünme,30,3
+77,Bekâr,0–40K,Çalışıyor,Hayır,Evet,7000+,Evet,3,2,5,5,Hayır,Evet,Finansal Güvence,45,4
+66,Bekâr,80K–120K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,5,5,4,3,Evet,Hayır,Çocukları Düşünme,20,2
+19,Bekâr,0–40K,Çalışıyor,Evet,Hayır,7000+,Hayır,1,4,5,4,Evet,Hayır,Finansal Güvence,20,2
+18,Evli,120K+,Çalışıyor,Hayır,Hayır,7000+,Evet,5,5,1,4,Evet,Hayır,Finansal Güvence,20,2
+65,Dul,0–40K,Çalışıyor,Evet,Hayır,3000–7000,Evet,1,1,1,1,Hayır,Evet,Finansal Güvence,50,4
+79,Evli,40K–80K,Çalışmıyor,Hayır,Evet,0–3000,Hayır,2,4,4,3,Evet,Hayır,Hastalık Korkusu,45,4
+29,Dul,120K+,Öğrenci,Evet,Hayır,0–3000,Hayır,4,3,3,2,Hayır,Evet,Hastalık Korkusu,25,2
+22,Bekâr,0–40K,Çalışıyor,Hayır,Hayır,7000+,Hayır,1,1,5,1,Evet,Evet,Çocukları Düşünme,10,1
+54,Dul,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,5,1,2,1,Hayır,Hayır,Zorunlu Gördüğü İçin,10,1
+49,Dul,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,2,3,4,5,Hayır,Hayır,Finansal Güvence,5,1
+76,Dul,0–40K,Çalışmıyor,Evet,Hayır,7000+,Hayır,1,1,2,5,Evet,Hayır,Finansal Güvence,30,3
+72,Bekâr,0–40K,Çalışıyor,Hayır,Hayır,7000+,Hayır,3,4,4,5,Hayır,Evet,Çocukları Düşünme,25,2
+26,Evli,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,4,5,3,1,Hayır,Hayır,Zorunlu Gördüğü İçin,5,1
+58,Bekâr,0–40K,Çalışmıyor,Hayır,Hayır,3000–7000,Evet,1,1,3,2,Hayır,Evet,Finansal Güvence,25,2
+52,Evli,120K+,Çalışıyor,Hayır,Hayır,3000–7000,Evet,2,4,3,4,Evet,Hayır,Zorunlu Gördüğü İçin,25,2
+36,Evli,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,3,2,3,5,Hayır,Hayır,Diğer,0,1
+65,Dul,0–40K,Çalışıyor,Evet,Hayır,7000+,Hayır,2,4,1,2,Evet,Hayır,Finansal Güvence,35,3
+33,Dul,120K+,Emekli,Hayır,Hayır,3000–7000,Hayır,2,5,1,3,Evet,Hayır,Zorunlu Gördüğü İçin,10,1
+20,Evli,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,3,4,5,5,Hayır,Hayır,Finansal Güvence,5,1
+37,Evli,40K–80K,Emekli,Hayır,Hayır,7000+,Hayır,2,3,2,4,Hayır,Hayır,Çocukları Düşünme,5,1
+41,Bekâr,80K–120K,Emekli,Hayır,Hayır,0–3000,Evet,3,5,4,3,Hayır,Hayır,Zorunlu Gördüğü İçin,30,3
+71,Bekâr,0–40K,Çalışıyor,Hayır,Evet,0–3000,Hayır,1,2,4,3,Evet,Hayır,Çocukları Düşünme,40,3
+73,Evli,0–40K,Çalışıyor,Evet,Hayır,3000–7000,Evet,3,3,1,4,Hayır,Hayır,Çocukları Düşünme,40,3
+50,Evli,80K–120K,Emekli,Hayır,Hayır,3000–7000,Evet,3,4,4,5,Hayır,Hayır,Finansal Güvence,20,2
+41,Bekâr,40K–80K,Çalışıyor,Evet,Hayır,7000+,Hayır,4,5,1,1,Evet,Evet,Çocukları Düşünme,20,2
+69,Dul,0–40K,Çalışıyor,Hayır,Hayır,7000+,Hayır,3,2,5,4,Evet,Hayır,Finansal Güvence,15,2
+28,Dul,80K–120K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,3,3,2,4,Evet,Hayır,Çocukları Düşünme,10,1
+66,Dul,40K–80K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,1,2,5,4,Evet,Hayır,Hastalık Korkusu,30,3
+25,Bekâr,0–40K,Emekli,Evet,Evet,7000+,Hayır,4,4,3,3,Evet,Hayır,Hastalık Korkusu,25,2
+53,Evli,0–40K,Çalışmıyor,Evet,Evet,3000–7000,Hayır,5,2,3,2,Hayır,Hayır,Hastalık Korkusu,20,2
+55,Bekâr,0–40K,Çalışmıyor,Evet,Hayır,0–3000,Hayır,1,1,3,1,Hayır,Hayır,Finansal Güvence,25,2
+57,Evli,80K–120K,Çalışmıyor,Evet,Evet,7000+,Hayır,1,3,5,5,Evet,Hayır,Çocukları Düşünme,25,2
+37,Evli,40K–80K,Çalışmıyor,Evet,Evet,0–3000,Hayır,5,2,4,5,Hayır,Hayır,Finansal Güvence,30,3
+79,Bekâr,80K–120K,Çalışmıyor,Evet,Hayır,7000+,Hayır,3,4,2,2,Hayır,Hayır,Zorunlu Gördüğü İçin,30,3
+52,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,2,4,3,4,Hayır,Evet,Çocukları Düşünme,15,2
+65,Bekâr,0–40K,Emekli,Evet,Hayır,3000–7000,Hayır,4,2,3,1,Hayır,Evet,Diğer,30,3
+79,Bekâr,0–40K,Çalışmıyor,Hayır,Hayır,7000+,Hayır,2,4,3,5,Evet,Hayır,Finansal Güvence,25,2
+42,Bekâr,40K–80K,Emekli,Evet,Evet,3000–7000,Hayır,5,5,2,5,Evet,Evet,Hastalık Korkusu,30,3
+52,Evli,0–40K,Emekli,Evet,Hayır,0–3000,Hayır,1,5,3,4,Hayır,Evet,Hastalık Korkusu,35,3
+42,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,1,5,2,2,Hayır,Hayır,Finansal Güvence,10,1
+46,Dul,80K–120K,Çalışmıyor,Evet,Hayır,3000–7000,Evet,4,1,3,1,Evet,Hayır,Zorunlu Gördüğü İçin,25,2
+35,Dul,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,1,2,5,2,Hayır,Evet,Finansal Güvence,10,1
+63,Evli,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,1,1,5,2,Hayır,Hayır,Hastalık Korkusu,20,2
+35,Evli,120K+,Çalışıyor,Evet,Hayır,7000+,Hayır,4,4,2,1,Hayır,Hayır,Çocukları Düşünme,15,2
+19,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,4,1,5,1,Hayır,Hayır,Finansal Güvence,0,1
+71,Bekâr,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,5,4,2,5,Evet,Evet,Zorunlu Gördüğü İçin,25,2
+52,Bekâr,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,1,4,5,5,Hayır,Hayır,Hastalık Korkusu,10,1
+33,Dul,0–40K,Çalışmıyor,Hayır,Hayır,0–3000,Hayır,1,3,5,1,Hayır,Hayır,Finansal Güvence,15,2
+78,Dul,0–40K,Çalışıyor,Evet,Evet,3000–7000,Evet,5,5,2,3,Hayır,Evet,Hastalık Korkusu,60,5
+58,Dul,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,3,4,4,5,Hayır,Hayır,Finansal Güvence,15,2
+53,Evli,40K–80K,Çalışıyor,Hayır,Evet,7000+,Hayır,3,3,5,3,Evet,Hayır,Finansal Güvence,10,1
+50,Evli,0–40K,Çalışıyor,Hayır,Hayır,7000+,Hayır,3,5,3,1,Hayır,Hayır,Zorunlu Gördüğü İçin,5,1
+21,Evli,40K–80K,Çalışmıyor,Evet,Evet,7000+,Hayır,5,4,4,5,Hayır,Evet,Zorunlu Gördüğü İçin,30,3
+50,Evli,40K–80K,Çalışmıyor,Evet,Hayır,3000–7000,Hayır,1,4,2,2,Evet,Hayır,Çocukları Düşünme,20,2
+31,Bekâr,0–40K,Çalışmıyor,Evet,Hayır,0–3000,Evet,5,1,4,1,Evet,Hayır,Finansal Güvence,35,3
+38,Dul,120K+,Öğrenci,Hayır,Hayır,3000–7000,Hayır,5,1,1,4,Evet,Hayır,Çocukları Düşünme,0,1
+65,Evli,0–40K,Çalışmıyor,Evet,Evet,3000–7000,Hayır,3,5,1,3,Evet,Hayır,Finansal Güvence,40,3
+37,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,2,4,5,1,Evet,Hayır,Hastalık Korkusu,20,2
+73,Bekâr,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,1,2,5,1,Hayır,Hayır,Finansal Güvence,30,3
+25,Evli,120K+,Çalışıyor,Evet,Hayır,3000–7000,Hayır,3,1,3,5,Evet,Hayır,Çocukları Düşünme,10,1
+24,Dul,40K–80K,Çalışıyor,Evet,Hayır,7000+,Hayır,2,5,4,5,Hayır,Hayır,Zorunlu Gördüğü İçin,20,2
+20,Bekâr,40K–80K,Çalışıyor,Evet,Hayır,0–3000,Hayır,2,4,1,5,Hayır,Hayır,Zorunlu Gördüğü İçin,30,3
+34,Evli,40K–80K,Çalışıyor,Hayır,Evet,0–3000,Evet,4,4,5,4,Evet,Evet,Hastalık Korkusu,45,4
+50,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,1,2,4,5,Hayır,Evet,Zorunlu Gördüğü İçin,20,2
+65,Evli,120K+,Çalışıyor,Hayır,Hayır,3000–7000,Evet,2,5,5,1,Evet,Hayır,Finansal Güvence,40,3
+29,Dul,0–40K,Emekli,Evet,Hayır,3000–7000,Evet,3,4,5,5,Evet,Hayır,Zorunlu Gördüğü İçin,30,3
+76,Dul,0–40K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,4,1,1,2,Hayır,Evet,Finansal Güvence,20,2
+68,Evli,80K–120K,Çalışmıyor,Evet,Hayır,0–3000,Hayır,1,2,1,5,Evet,Evet,Finansal Güvence,45,4
+39,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,5,5,5,4,Evet,Hayır,Hastalık Korkusu,15,2
+72,Evli,80K–120K,Çalışmıyor,Hayır,Hayır,0–3000,Hayır,3,2,2,2,Evet,Hayır,Zorunlu Gördüğü İçin,25,2
+39,Dul,40K–80K,Çalışıyor,Evet,Hayır,7000+,Hayır,2,1,5,1,Evet,Hayır,Finansal Güvence,15,2
+63,Bekâr,80K–120K,Emekli,Hayır,Hayır,3000–7000,Hayır,2,5,5,1,Evet,Hayır,Diğer,25,2
+47,Evli,80K–120K,Çalışıyor,Hayır,Evet,7000+,Evet,3,2,3,3,Evet,Hayır,Finansal Güvence,25,2
+55,Evli,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,2,3,3,2,Hayır,Hayır,Hastalık Korkusu,5,1
+55,Dul,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,4,1,3,3,Hayır,Hayır,Hastalık Korkusu,0,1
+62,Bekâr,40K–80K,Emekli,Evet,Hayır,7000+,Hayır,1,1,2,2,Evet,Hayır,Finansal Güvence,30,3
+68,Dul,80K–120K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,4,1,2,2,Evet,Hayır,Finansal Güvence,25,2
+71,Dul,0–40K,Çalışıyor,Evet,Evet,7000+,Hayır,2,3,5,4,Evet,Hayır,Çocukları Düşünme,40,3
+25,Dul,80K–120K,Çalışmıyor,Hayır,Hayır,0–3000,Hayır,5,3,3,3,Evet,Hayır,Finansal Güvence,10,1
+44,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,1,4,2,4,Hayır,Hayır,Çocukları Düşünme,10,1
+44,Dul,40K–80K,Çalışıyor,Evet,Hayır,7000+,Hayır,1,2,1,2,Hayır,Hayır,Zorunlu Gördüğü İçin,15,2
+51,Dul,40K–80K,Emekli,Hayır,Evet,3000–7000,Hayır,3,4,5,1,Evet,Hayır,Diğer,15,2
+38,Bekâr,80K–120K,Emekli,Hayır,Hayır,7000+,Hayır,3,2,4,2,Hayır,Hayır,Diğer,0,1
+47,Dul,0–40K,Çalışmıyor,Hayır,Hayır,7000+,Hayır,5,3,5,4,Evet,Hayır,Finansal Güvence,0,1
+50,Bekâr,80K–120K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,1,3,4,3,Evet,Hayır,Zorunlu Gördüğü İçin,15,2
+45,Dul,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,5,4,3,3,Hayır,Hayır,Finansal Güvence,5,1
+64,Bekâr,0–40K,Emekli,Evet,Evet,3000–7000,Hayır,3,5,4,4,Hayır,Hayır,Zorunlu Gördüğü İçin,40,3
+50,Dul,0–40K,Emekli,Hayır,Hayır,7000+,Hayır,3,4,3,3,Evet,Hayır,Diğer,5,1
+22,Dul,0–40K,Çalışıyor,Evet,Evet,3000–7000,Hayır,1,2,1,5,Hayır,Evet,Hastalık Korkusu,30,3
+77,Bekâr,0–40K,Emekli,Hayır,Evet,7000+,Hayır,4,4,4,1,Evet,Hayır,Çocukları Düşünme,30,3
+78,Evli,120K+,Çalışıyor,Evet,Hayır,3000–7000,Evet,2,1,5,1,Hayır,Hayır,Hastalık Korkusu,45,4
+65,Evli,40K–80K,Emekli,Hayır,Hayır,3000–7000,Evet,3,2,3,1,Evet,Hayır,Hastalık Korkusu,30,3
+36,Bekâr,120K+,Çalışmıyor,Hayır,Hayır,7000+,Hayır,3,2,5,3,Hayır,Hayır,Zorunlu Gördüğü İçin,0,1
+21,Dul,40K–80K,Öğrenci,Hayır,Hayır,7000+,Hayır,4,5,2,3,Evet,Hayır,Çocukları Düşünme,5,1
+52,Bekâr,0–40K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,4,3,3,2,Evet,Hayır,Finansal Güvence,10,1
+66,Bekâr,80K–120K,Emekli,Evet,Evet,0–3000,Evet,5,2,4,2,Hayır,Hayır,Zorunlu Gördüğü İçin,60,5
+34,Evli,0–40K,Emekli,Hayır,Evet,0–3000,Hayır,5,3,3,1,Hayır,Hayır,Finansal Güvence,20,2
+61,Evli,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,2,4,5,5,Hayır,Hayır,Çocukları Düşünme,25,2
+45,Evli,80K–120K,Öğrenci,Evet,Hayır,3000–7000,Hayır,2,1,1,2,Hayır,Hayır,Finansal Güvence,15,2
+47,Evli,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,1,5,3,2,Hayır,Hayır,Çocukları Düşünme,25,2
+46,Evli,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Evet,5,3,4,3,Hayır,Evet,Finansal Güvence,30,3
+63,Bekâr,0–40K,Emekli,Hayır,Evet,7000+,Hayır,3,2,2,5,Hayır,Evet,Çocukları Düşünme,30,3
+70,Evli,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,5,3,1,1,Evet,Hayır,Finansal Güvence,25,2
+23,Evli,80K–120K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,3,2,2,2,Evet,Hayır,Zorunlu Gördüğü İçin,0,1
+52,Dul,80K–120K,Emekli,Evet,Hayır,3000–7000,Hayır,4,3,3,5,Hayır,Hayır,Diğer,10,1
+77,Dul,80K–120K,Çalışıyor,Hayır,Evet,7000+,Hayır,5,2,5,5,Hayır,Hayır,Hastalık Korkusu,25,2
+58,Evli,40K–80K,Emekli,Evet,Hayır,3000–7000,Hayır,4,4,5,1,Evet,Hayır,Finansal Güvence,15,2
+54,Bekâr,120K+,Çalışmıyor,Evet,Hayır,0–3000,Hayır,2,2,4,5,Evet,Hayır,Çocukları Düşünme,25,2
+41,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,2,2,5,5,Evet,Evet,Hastalık Korkusu,10,1
+46,Bekâr,40K–80K,Emekli,Hayır,Hayır,0–3000,Hayır,1,1,1,5,Hayır,Hayır,Hastalık Korkusu,15,2
+66,Evli,120K+,Çalışmıyor,Hayır,Hayır,7000+,Hayır,5,2,5,2,Hayır,Evet,Hastalık Korkusu,20,2
+63,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,4,1,4,1,Evet,Hayır,Hastalık Korkusu,15,2
+70,Dul,80K–120K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,3,5,3,5,Evet,Hayır,Finansal Güvence,30,3
+48,Bekâr,80K–120K,Çalışıyor,Hayır,Hayır,7000+,Hayır,2,1,3,5,Hayır,Evet,Çocukları Düşünme,10,1
+52,Dul,0–40K,Çalışıyor,Hayır,Hayır,7000+,Hayır,2,4,5,2,Evet,Evet,Finansal Güvence,15,2
+77,Dul,40K–80K,Çalışıyor,Hayır,Evet,0–3000,Evet,3,1,2,1,Hayır,Evet,Hastalık Korkusu,55,4
+50,Dul,80K–120K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,4,5,3,3,Hayır,Evet,Hastalık Korkusu,20,2
+69,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,4,4,5,2,Evet,Hayır,Diğer,35,3
+78,Evli,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,5,3,4,1,Evet,Hayır,Finansal Güvence,15,2
+38,Bekâr,0–40K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,5,3,5,5,Hayır,Evet,Diğer,15,2
+49,Dul,40K–80K,Emekli,Hayır,Hayır,7000+,Hayır,1,1,3,1,Hayır,Hayır,Diğer,5,1
+40,Dul,40K–80K,Çalışıyor,Evet,Evet,0–3000,Evet,2,1,4,1,Hayır,Hayır,Diğer,50,4
+50,Dul,40K–80K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,5,5,5,1,Hayır,Hayır,Zorunlu Gördüğü İçin,15,2
+20,Bekâr,40K–80K,Emekli,Hayır,Hayır,7000+,Hayır,4,5,1,3,Hayır,Hayır,Finansal Güvence,5,1
+35,Dul,40K–80K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,3,2,4,1,Evet,Evet,Zorunlu Gördüğü İçin,5,1
+42,Bekâr,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,4,5,1,3,Evet,Hayır,Hastalık Korkusu,5,1
+59,Bekâr,0–40K,Çalışıyor,Hayır,Hayır,7000+,Hayır,2,2,2,5,Hayır,Hayır,Diğer,5,1
+48,Evli,80K–120K,Öğrenci,Hayır,Hayır,7000+,Hayır,4,4,4,3,Hayır,Hayır,Hastalık Korkusu,5,1
+71,Evli,40K–80K,Emekli,Evet,Hayır,3000–7000,Evet,1,1,1,5,Evet,Hayır,Finansal Güvence,45,4
+75,Bekâr,120K+,Öğrenci,Hayır,Evet,3000–7000,Hayır,2,4,3,5,Hayır,Hayır,Çocukları Düşünme,35,3
+20,Evli,0–40K,Öğrenci,Evet,Evet,7000+,Evet,3,5,3,3,Hayır,Hayır,Zorunlu Gördüğü İçin,40,3
+57,Bekâr,120K+,Emekli,Hayır,Hayır,3000–7000,Hayır,1,4,2,2,Hayır,Hayır,Finansal Güvence,10,1
+63,Dul,120K+,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,2,4,4,4,Hayır,Evet,Hastalık Korkusu,30,3
+41,Bekâr,0–40K,Emekli,Hayır,Hayır,7000+,Hayır,3,4,4,1,Hayır,Hayır,Hastalık Korkusu,5,1
+67,Evli,40K–80K,Çalışıyor,Evet,Evet,7000+,Evet,1,5,4,4,Hayır,Evet,Finansal Güvence,65,5
+49,Bekâr,40K–80K,Emekli,Hayır,Hayır,7000+,Hayır,1,4,2,1,Evet,Hayır,Hastalık Korkusu,10,1
+64,Evli,80K–120K,Emekli,Evet,Hayır,3000–7000,Hayır,2,2,4,1,Evet,Evet,Zorunlu Gördüğü İçin,35,3
+39,Bekâr,40K–80K,Emekli,Hayır,Evet,0–3000,Evet,5,5,3,5,Hayır,Hayır,Zorunlu Gördüğü İçin,40,3
+40,Evli,120K+,Çalışmıyor,Evet,Evet,7000+,Hayır,1,4,1,1,Hayır,Evet,Zorunlu Gördüğü İçin,35,3
+19,Bekâr,0–40K,Çalışıyor,Evet,Hayır,7000+,Hayır,1,5,3,1,Hayır,Hayır,Diğer,20,2
+44,Bekâr,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,3,3,3,3,Evet,Evet,Finansal Güvence,5,1
+59,Evli,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,4,2,1,4,Hayır,Evet,Finansal Güvence,5,1
+19,Bekâr,0–40K,Çalışıyor,Evet,Hayır,7000+,Hayır,2,4,3,3,Hayır,Hayır,Hastalık Korkusu,20,2
+43,Evli,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,2,3,2,1,Hayır,Evet,Finansal Güvence,25,2
+34,Bekâr,80K–120K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,5,3,1,5,Evet,Hayır,Çocukları Düşünme,0,1
+57,Evli,40K–80K,Emekli,Hayır,Hayır,3000–7000,Evet,5,5,3,3,Evet,Evet,Çocukları Düşünme,25,2
+50,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,2,3,5,3,Evet,Hayır,Diğer,5,1
+26,Evli,40K–80K,Çalışmıyor,Hayır,Hayır,7000+,Hayır,5,2,3,2,Hayır,Evet,Finansal Güvence,5,1
+60,Evli,40K–80K,Çalışıyor,Evet,Hayır,0–3000,Hayır,3,2,2,1,Evet,Hayır,Çocukları Düşünme,20,2
+71,Dul,40K–80K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,2,1,4,5,Evet,Evet,Hastalık Korkusu,25,2
+65,Bekâr,120K+,Çalışıyor,Hayır,Hayır,7000+,Evet,5,2,3,3,Hayır,Hayır,Finansal Güvence,30,3
+56,Dul,40K–80K,Öğrenci,Evet,Hayır,0–3000,Hayır,2,3,4,3,Hayır,Evet,Finansal Güvence,30,3
+46,Dul,80K–120K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,4,2,5,5,Hayır,Hayır,Hastalık Korkusu,10,1
+59,Evli,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,1,5,3,1,Evet,Hayır,Çocukları Düşünme,10,1
+72,Evli,40K–80K,Emekli,Evet,Evet,3000–7000,Hayır,2,1,1,2,Hayır,Evet,Zorunlu Gördüğü İçin,45,4
+43,Evli,40K–80K,Emekli,Evet,Hayır,0–3000,Hayır,1,3,4,3,Evet,Hayır,Çocukları Düşünme,25,2
+52,Bekâr,40K–80K,Emekli,Hayır,Evet,0–3000,Hayır,5,1,5,2,Evet,Hayır,Çocukları Düşünme,20,2
+67,Dul,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,1,3,1,4,Hayır,Hayır,Hastalık Korkusu,20,2
+42,Bekâr,0–40K,Çalışmıyor,Hayır,Hayır,0–3000,Evet,2,5,1,1,Evet,Hayır,Hastalık Korkusu,35,3
+41,Bekâr,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,4,1,1,4,Hayır,Evet,Diğer,5,1
+30,Dul,40K–80K,Çalışıyor,Evet,Evet,7000+,Hayır,5,4,1,4,Hayır,Evet,Hastalık Korkusu,30,3
+77,Bekâr,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,2,3,3,4,Hayır,Evet,Hastalık Korkusu,25,2
+75,Dul,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,5,4,3,1,Hayır,Hayır,Hastalık Korkusu,20,2
+24,Dul,0–40K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,3,1,3,1,Hayır,Hayır,Zorunlu Gördüğü İçin,10,1
+74,Evli,0–40K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,1,4,5,5,Hayır,Hayır,Hastalık Korkusu,35,3
+53,Evli,40K–80K,Çalışıyor,Evet,Hayır,7000+,Hayır,3,4,5,2,Hayır,Evet,Hastalık Korkusu,20,2
+62,Evli,120K+,Emekli,Hayır,Hayır,0–3000,Evet,2,1,5,2,Evet,Evet,Hastalık Korkusu,50,4
+37,Evli,0–40K,Çalışıyor,Hayır,Hayır,0–3000,Evet,4,5,2,5,Evet,Hayır,Çocukları Düşünme,30,3
+18,Dul,120K+,Çalışmıyor,Hayır,Hayır,7000+,Hayır,5,4,5,5,Evet,Hayır,Finansal Güvence,5,1
+25,Bekâr,40K–80K,Çalışmıyor,Hayır,Evet,3000–7000,Hayır,1,4,3,4,Evet,Evet,Zorunlu Gördüğü İçin,25,2
+63,Evli,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,5,5,3,5,Hayır,Hayır,Zorunlu Gördüğü İçin,20,2
+33,Dul,80K–120K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,2,4,2,3,Evet,Hayır,Finansal Güvence,20,2
+31,Dul,40K–80K,Çalışmıyor,Evet,Hayır,3000–7000,Hayır,5,4,2,2,Evet,Hayır,Finansal Güvence,15,2
+29,Evli,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,1,4,5,5,Hayır,Hayır,Hastalık Korkusu,10,1
+68,Bekâr,40K–80K,Çalışıyor,Evet,Evet,3000–7000,Hayır,2,2,4,3,Hayır,Hayır,Finansal Güvence,40,3
+40,Dul,0–40K,Emekli,Hayır,Hayır,7000+,Evet,5,5,2,3,Hayır,Hayır,Diğer,20,2
+32,Evli,40K–80K,Çalışıyor,Hayır,Evet,3000–7000,Evet,4,4,1,3,Hayır,Hayır,Hastalık Korkusu,30,3
+45,Dul,80K–120K,Çalışıyor,Hayır,Hayır,7000+,Hayır,2,5,3,3,Hayır,Hayır,Finansal Güvence,10,1
+51,Dul,40K–80K,Emekli,Evet,Hayır,0–3000,Evet,2,3,1,4,Evet,Hayır,Diğer,40,3
+19,Evli,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,4,3,3,3,Evet,Hayır,Zorunlu Gördüğü İçin,10,1
+49,Evli,0–40K,Çalışıyor,Hayır,Hayır,7000+,Hayır,3,4,3,4,Evet,Hayır,Finansal Güvence,5,1
+40,Evli,40K–80K,Öğrenci,Evet,Hayır,0–3000,Hayır,1,5,2,4,Evet,Evet,Zorunlu Gördüğü İçin,35,3
+39,Dul,80K–120K,Çalışıyor,Evet,Hayır,0–3000,Hayır,3,5,2,3,Evet,Evet,Hastalık Korkusu,30,3
+68,Dul,80K–120K,Çalışmıyor,Evet,Hayır,7000+,Hayır,5,5,1,2,Evet,Evet,Finansal Güvence,35,3
+42,Bekâr,80K–120K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,4,2,3,3,Evet,Evet,Hastalık Korkusu,15,2
+75,Dul,120K+,Çalışmıyor,Hayır,Evet,3000–7000,Evet,3,3,1,3,Hayır,Hayır,Finansal Güvence,40,3
+79,Evli,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,2,5,4,3,Hayır,Hayır,Zorunlu Gördüğü İçin,35,3
+78,Dul,80K–120K,Öğrenci,Hayır,Hayır,7000+,Hayır,5,5,1,2,Evet,Evet,Çocukları Düşünme,25,2
+39,Bekâr,40K–80K,Çalışıyor,Evet,Hayır,0–3000,Hayır,5,2,5,1,Hayır,Hayır,Hastalık Korkusu,20,2
+75,Evli,0–40K,Çalışmıyor,Hayır,Evet,3000–7000,Hayır,3,2,1,1,Hayır,Hayır,Zorunlu Gördüğü İçin,25,2
+75,Dul,0–40K,Çalışıyor,Hayır,Hayır,7000+,Hayır,3,5,5,4,Hayır,Hayır,Çocukları Düşünme,20,2
+39,Dul,0–40K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,4,1,5,4,Hayır,Hayır,Hastalık Korkusu,10,1
+66,Bekâr,80K–120K,Öğrenci,Hayır,Evet,0–3000,Hayır,1,5,5,2,Hayır,Hayır,Zorunlu Gördüğü İçin,45,4
+69,Evli,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,3,5,4,5,Hayır,Evet,Hastalık Korkusu,25,2
+59,Dul,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,3,2,1,1,Evet,Hayır,Hastalık Korkusu,10,1
+23,Dul,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,2,2,1,4,Evet,Hayır,Çocukları Düşünme,5,1
+32,Bekâr,80K–120K,Çalışmıyor,Hayır,Evet,0–3000,Hayır,5,5,4,1,Hayır,Evet,Finansal Güvence,30,3
+71,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,1,5,3,2,Hayır,Evet,Finansal Güvence,30,3
+60,Bekâr,40K–80K,Çalışmıyor,Hayır,Hayır,0–3000,Evet,2,5,2,2,Hayır,Hayır,Diğer,35,3
+77,Bekâr,0–40K,Emekli,Hayır,Evet,0–3000,Hayır,4,2,1,5,Hayır,Evet,Hastalık Korkusu,40,3
+54,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,4,5,2,5,Hayır,Hayır,Finansal Güvence,15,2
+50,Dul,120K+,Çalışıyor,Hayır,Hayır,3000–7000,Evet,3,5,4,2,Hayır,Hayır,Hastalık Korkusu,20,2
+25,Dul,80K–120K,Çalışıyor,Hayır,Hayır,7000+,Evet,3,4,3,4,Hayır,Hayır,Finansal Güvence,20,2
+70,Evli,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Evet,4,1,3,1,Hayır,Evet,Finansal Güvence,45,4
+77,Dul,80K–120K,Çalışmıyor,Hayır,Hayır,0–3000,Evet,3,3,3,3,Hayır,Hayır,Hastalık Korkusu,40,3
+61,Bekâr,80K–120K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,1,1,4,5,Evet,Evet,Finansal Güvence,35,3
+61,Dul,0–40K,Çalışmıyor,Evet,Evet,7000+,Hayır,3,4,5,3,Evet,Hayır,Hastalık Korkusu,40,3
+22,Dul,120K+,Emekli,Hayır,Hayır,0–3000,Hayır,5,3,5,4,Evet,Hayır,Çocukları Düşünme,10,1
+56,Bekâr,40K–80K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,3,5,2,5,Hayır,Hayır,Çocukları Düşünme,5,1
+21,Dul,40K–80K,Çalışıyor,Hayır,Evet,7000+,Hayır,2,4,5,3,Hayır,Hayır,Finansal Güvence,20,2
+23,Dul,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,1,5,5,4,Hayır,Evet,Finansal Güvence,15,2
+62,Evli,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,2,2,3,1,Hayır,Hayır,Finansal Güvence,20,2
+49,Dul,80K–120K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,2,4,3,4,Hayır,Hayır,Çocukları Düşünme,20,2
+69,Bekâr,80K–120K,Emekli,Hayır,Hayır,7000+,Hayır,5,2,2,5,Hayır,Hayır,Finansal Güvence,15,2
+47,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,1,4,1,2,Hayır,Evet,Finansal Güvence,15,2
+64,Bekâr,0–40K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,1,4,2,1,Hayır,Evet,Finansal Güvence,40,3
+52,Dul,120K+,Emekli,Hayır,Hayır,3000–7000,Hayır,1,2,2,3,Evet,Evet,Çocukları Düşünme,10,1
+72,Evli,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,1,3,4,5,Evet,Hayır,Çocukları Düşünme,20,2
+57,Dul,120K+,Emekli,Hayır,Hayır,3000–7000,Hayır,1,1,4,2,Hayır,Hayır,Diğer,5,1
+69,Dul,0–40K,Emekli,Hayır,Hayır,0–3000,Evet,5,5,2,4,Hayır,Hayır,Hastalık Korkusu,45,4
+33,Evli,0–40K,Çalışıyor,Hayır,Hayır,7000+,Hayır,3,4,2,2,Evet,Hayır,Hastalık Korkusu,5,1
+30,Dul,0–40K,Öğrenci,Hayır,Hayır,7000+,Hayır,2,5,2,5,Hayır,Evet,Hastalık Korkusu,15,2
+67,Evli,0–40K,Çalışıyor,Hayır,Hayır,7000+,Hayır,1,2,5,5,Hayır,Evet,Finansal Güvence,25,2
+77,Bekâr,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Evet,3,5,4,2,Evet,Hayır,Hastalık Korkusu,35,3
+59,Bekâr,80K–120K,Çalışıyor,Evet,Hayır,3000–7000,Evet,3,2,2,4,Hayır,Hayır,Hastalık Korkusu,25,2
+47,Bekâr,40K–80K,Çalışmıyor,Hayır,Hayır,0–3000,Evet,2,5,3,2,Evet,Hayır,Hastalık Korkusu,35,3
+36,Evli,120K+,Çalışıyor,Hayır,Hayır,0–3000,Evet,5,1,3,5,Hayır,Evet,Çocukları Düşünme,30,3
+34,Dul,80K–120K,Emekli,Hayır,Hayır,3000–7000,Hayır,4,1,5,5,Evet,Hayır,Çocukları Düşünme,0,1
+73,Evli,80K–120K,Çalışmıyor,Evet,Hayır,3000–7000,Hayır,4,1,5,3,Hayır,Hayır,Finansal Güvence,25,2
+36,Evli,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,3,1,1,3,Hayır,Hayır,Hastalık Korkusu,0,1
+45,Dul,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,2,1,1,1,Evet,Hayır,Çocukları Düşünme,5,1
+75,Bekâr,40K–80K,Çalışmıyor,Hayır,Hayır,7000+,Hayır,4,1,1,5,Hayır,Hayır,Zorunlu Gördüğü İçin,15,2
+72,Dul,0–40K,Emekli,Evet,Hayır,0–3000,Evet,3,2,5,3,Hayır,Evet,Finansal Güvence,55,4
+43,Dul,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,5,4,5,2,Hayır,Evet,Hastalık Korkusu,20,2
+54,Evli,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,4,5,5,4,Hayır,Hayır,Zorunlu Gördüğü İçin,5,1
+43,Evli,40K–80K,Emekli,Hayır,Hayır,3000–7000,Hayır,3,1,3,2,Hayır,Hayır,Finansal Güvence,0,1
+70,Dul,0–40K,Çalışmıyor,Hayır,Hayır,7000+,Hayır,3,2,5,4,Evet,Hayır,Finansal Güvence,15,2
+79,Evli,120K+,Çalışıyor,Hayır,Hayır,0–3000,Hayır,1,2,3,3,Evet,Evet,Çocukları Düşünme,35,3
+40,Dul,0–40K,Öğrenci,Evet,Evet,3000–7000,Hayır,5,2,1,1,Hayır,Evet,Çocukları Düşünme,25,2
+26,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Evet,1,4,1,2,Hayır,Evet,Hastalık Korkusu,40,3
+29,Dul,80K–120K,Çalışıyor,Evet,Hayır,0–3000,Evet,2,5,1,2,Evet,Hayır,Finansal Güvence,45,4
+70,Dul,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,1,4,2,2,Hayır,Evet,Çocukları Düşünme,40,3
+18,Bekâr,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,1,3,2,4,Evet,Hayır,Finansal Güvence,20,2
+75,Bekâr,40K–80K,Çalışmıyor,Hayır,Hayır,7000+,Evet,4,2,4,3,Hayır,Hayır,Finansal Güvence,30,3
+75,Dul,80K–120K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,3,3,4,2,Hayır,Evet,Diğer,20,2
+18,Evli,0–40K,Çalışmıyor,Hayır,Evet,7000+,Hayır,5,1,4,2,Hayır,Evet,Hastalık Korkusu,15,2
+64,Evli,0–40K,Emekli,Hayır,Evet,7000+,Hayır,1,1,2,1,Hayır,Hayır,Finansal Güvence,30,3
+51,Dul,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,5,4,2,1,Hayır,Hayır,Hastalık Korkusu,5,1
+49,Evli,40K–80K,Emekli,Hayır,Evet,3000–7000,Hayır,1,5,4,3,Evet,Hayır,Hastalık Korkusu,20,2
+79,Bekâr,40K–80K,Çalışmıyor,Evet,Hayır,3000–7000,Hayır,2,3,4,3,Evet,Evet,Zorunlu Gördüğü İçin,35,3
+71,Bekâr,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,1,5,5,5,Hayır,Evet,Hastalık Korkusu,30,3
+65,Bekâr,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,4,4,4,1,Evet,Hayır,Hastalık Korkusu,20,2
+42,Bekâr,40K–80K,Çalışmıyor,Hayır,Hayır,7000+,Hayır,3,1,5,5,Evet,Hayır,Finansal Güvence,0,1
+57,Dul,40K–80K,Emekli,Hayır,Evet,3000–7000,Evet,2,5,3,4,Hayır,Hayır,Finansal Güvence,35,3
+62,Evli,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,1,5,2,5,Hayır,Hayır,Hastalık Korkusu,35,3
+70,Dul,0–40K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,5,1,4,2,Hayır,Hayır,Finansal Güvence,25,2
+18,Evli,120K+,Emekli,Hayır,Hayır,3000–7000,Hayır,2,3,2,5,Evet,Hayır,Hastalık Korkusu,5,1
+33,Evli,40K–80K,Öğrenci,Evet,Hayır,7000+,Evet,2,1,2,3,Evet,Hayır,Çocukları Düşünme,30,3
+78,Evli,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,1,5,2,4,Hayır,Hayır,Zorunlu Gördüğü İçin,25,2
+56,Evli,40K–80K,Çalışıyor,Hayır,Evet,7000+,Hayır,2,3,3,2,Evet,Hayır,Çocukları Düşünme,15,2
+22,Evli,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,5,3,1,5,Hayır,Evet,Diğer,5,1
+39,Bekâr,0–40K,Çalışmıyor,Evet,Hayır,0–3000,Hayır,2,1,4,4,Hayır,Hayır,Çocukları Düşünme,25,2
+46,Dul,0–40K,Çalışmıyor,Evet,Hayır,3000–7000,Hayır,5,5,1,4,Evet,Hayır,Finansal Güvence,15,2
+72,Evli,40K–80K,Öğrenci,Hayır,Hayır,0–3000,Hayır,1,4,1,2,Evet,Evet,Hastalık Korkusu,40,3
+20,Evli,40K–80K,Öğrenci,Evet,Hayır,3000–7000,Evet,3,5,1,5,Hayır,Hayır,Hastalık Korkusu,30,3
+29,Bekâr,0–40K,Öğrenci,Hayır,Hayır,0–3000,Evet,2,2,2,4,Evet,Evet,Zorunlu Gördüğü İçin,35,3
+43,Dul,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,3,4,5,4,Evet,Hayır,Çocukları Düşünme,15,2
+33,Dul,40K–80K,Emekli,Evet,Hayır,7000+,Hayır,5,3,2,1,Hayır,Hayır,Diğer,10,1
+68,Bekâr,80K–120K,Çalışmıyor,Evet,Evet,3000–7000,Hayır,2,4,2,4,Evet,Hayır,Zorunlu Gördüğü İçin,45,4
+54,Evli,80K–120K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,4,3,1,1,Evet,Evet,Finansal Güvence,15,2
+39,Evli,80K–120K,Çalışmıyor,Hayır,Hayır,7000+,Hayır,3,3,2,5,Hayır,Hayır,Hastalık Korkusu,0,1
+74,Evli,120K+,Emekli,Evet,Hayır,3000–7000,Evet,2,4,1,5,Evet,Hayır,Hastalık Korkusu,50,4
+46,Evli,0–40K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,3,3,5,5,Hayır,Evet,Hastalık Korkusu,5,1
+31,Evli,40K–80K,Emekli,Evet,Hayır,0–3000,Hayır,2,3,4,3,Hayır,Hayır,Finansal Güvence,25,2
+45,Evli,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,1,2,1,5,Evet,Hayır,Çocukları Düşünme,5,1
+22,Bekâr,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,3,5,5,4,Evet,Hayır,Finansal Güvence,15,2
+64,Evli,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,4,5,4,2,Hayır,Hayır,Çocukları Düşünme,20,2
+66,Dul,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,4,2,3,1,Hayır,Evet,Diğer,20,2
+47,Bekâr,0–40K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,5,4,1,3,Evet,Hayır,Finansal Güvence,15,2
+63,Dul,0–40K,Emekli,Hayır,Evet,3000–7000,Hayır,2,1,1,5,Hayır,Evet,Finansal Güvence,35,3
+79,Evli,0–40K,Çalışmıyor,Hayır,Hayır,0–3000,Evet,3,1,3,5,Hayır,Evet,Finansal Güvence,45,4
+69,Dul,40K–80K,Çalışmıyor,Evet,Hayır,3000–7000,Evet,5,1,3,2,Evet,Hayır,Hastalık Korkusu,40,3
+22,Bekâr,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,3,2,1,2,Evet,Evet,Finansal Güvence,5,1
+29,Dul,0–40K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,2,2,3,3,Hayır,Hayır,Çocukları Düşünme,15,2
+33,Bekâr,80K–120K,Emekli,Evet,Hayır,3000–7000,Evet,4,3,2,1,Hayır,Hayır,Zorunlu Gördüğü İçin,25,2
+43,Bekâr,0–40K,Çalışıyor,Hayır,Evet,7000+,Evet,1,1,4,5,Hayır,Hayır,Zorunlu Gördüğü İçin,30,3
+43,Bekâr,40K–80K,Çalışmıyor,Hayır,Hayır,7000+,Hayır,4,4,4,3,Hayır,Hayır,Zorunlu Gördüğü İçin,5,1
+65,Evli,40K–80K,Çalışmıyor,Hayır,Hayır,0–3000,Hayır,5,4,4,4,Hayır,Hayır,Diğer,30,3
+38,Evli,40K–80K,Çalışıyor,Hayır,Evet,7000+,Hayır,1,1,2,4,Hayır,Hayır,Çocukları Düşünme,15,2
+56,Dul,80K–120K,Çalışıyor,Hayır,Hayır,7000+,Evet,5,1,3,3,Hayır,Hayır,Hastalık Korkusu,15,2
+53,Bekâr,40K–80K,Çalışmıyor,Hayır,Hayır,0–3000,Hayır,2,1,5,5,Hayır,Hayır,Çocukları Düşünme,15,2
+50,Dul,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,1,2,3,3,Evet,Evet,Çocukları Düşünme,10,1
+79,Bekâr,40K–80K,Emekli,Evet,Hayır,3000–7000,Evet,5,2,1,5,Evet,Hayır,Hastalık Korkusu,40,3
+47,Evli,40K–80K,Çalışmıyor,Evet,Hayır,0–3000,Hayır,2,2,4,2,Evet,Hayır,Diğer,25,2
+54,Bekâr,0–40K,Çalışıyor,Hayır,Hayır,7000+,Evet,4,5,3,3,Evet,Hayır,Zorunlu Gördüğü İçin,20,2
+40,Evli,120K+,Çalışmıyor,Hayır,Hayır,7000+,Hayır,2,4,5,5,Evet,Evet,Çocukları Düşünme,15,2
+75,Evli,40K–80K,Emekli,Hayır,Hayır,3000–7000,Hayır,3,4,1,3,Hayır,Hayır,Hastalık Korkusu,20,2
+27,Bekâr,120K+,Çalışmıyor,Hayır,Evet,3000–7000,Hayır,2,3,2,3,Hayır,Hayır,Finansal Güvence,15,2
+71,Evli,0–40K,Çalışıyor,Hayır,Evet,0–3000,Hayır,2,2,2,5,Hayır,Evet,Hastalık Korkusu,45,4
+22,Dul,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Evet,3,5,5,5,Hayır,Evet,Çocukları Düşünme,25,2
+53,Evli,0–40K,Emekli,Hayır,Evet,3000–7000,Hayır,5,5,1,1,Hayır,Hayır,Diğer,15,2
+51,Dul,40K–80K,Emekli,Hayır,Hayır,7000+,Hayır,5,4,4,3,Hayır,Hayır,Finansal Güvence,5,1
+69,Bekâr,80K–120K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,2,2,3,4,Hayır,Hayır,Çocukları Düşünme,30,3
+48,Dul,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,3,3,1,3,Evet,Hayır,Hastalık Korkusu,10,1
+27,Evli,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,3,2,2,3,Hayır,Hayır,Diğer,0,1
+75,Bekâr,40K–80K,Çalışıyor,Hayır,Evet,7000+,Evet,4,1,5,5,Hayır,Hayır,Çocukları Düşünme,40,3
+36,Bekâr,80K–120K,Çalışmıyor,Evet,Evet,3000–7000,Hayır,5,2,5,3,Hayır,Hayır,Diğer,20,2
+75,Bekâr,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,1,1,3,3,Hayır,Hayır,Zorunlu Gördüğü İçin,30,3
+49,Dul,80K–120K,Emekli,Hayır,Hayır,3000–7000,Hayır,5,1,5,4,Evet,Evet,Çocukları Düşünme,5,1
+18,Dul,80K–120K,Emekli,Evet,Hayır,3000–7000,Hayır,5,3,5,5,Hayır,Hayır,Zorunlu Gördüğü İçin,10,1
+73,Evli,80K–120K,Çalışıyor,Evet,Evet,7000+,Hayır,4,4,1,3,Hayır,Hayır,Finansal Güvence,40,3
+22,Bekâr,40K–80K,Emekli,Hayır,Hayır,0–3000,Hayır,1,2,4,2,Evet,Hayır,Diğer,15,2
+62,Bekâr,40K–80K,Emekli,Hayır,Hayır,7000+,Hayır,4,1,3,1,Evet,Hayır,Finansal Güvence,15,2
+21,Dul,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,1,2,1,4,Hayır,Evet,Finansal Güvence,10,1
+33,Dul,0–40K,Öğrenci,Hayır,Evet,3000–7000,Hayır,2,4,4,3,Hayır,Evet,Çocukları Düşünme,25,2
+41,Evli,40K–80K,Çalışmıyor,Evet,Hayır,0–3000,Hayır,1,4,1,2,Hayır,Evet,Zorunlu Gördüğü İçin,35,3
+33,Evli,0–40K,Emekli,Hayır,Hayır,7000+,Hayır,4,5,1,3,Hayır,Evet,Finansal Güvence,10,1
+72,Bekâr,40K–80K,Emekli,Evet,Hayır,3000–7000,Hayır,5,4,5,3,Evet,Hayır,Finansal Güvence,30,3
+19,Evli,80K–120K,Çalışıyor,Hayır,Evet,7000+,Hayır,1,3,4,5,Hayır,Hayır,Diğer,15,2
+66,Evli,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,1,1,3,5,Evet,Hayır,Finansal Güvence,35,3
+45,Evli,120K+,Emekli,Evet,Hayır,0–3000,Hayır,3,5,3,5,Hayır,Hayır,Hastalık Korkusu,25,2
+49,Evli,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,5,3,4,2,Evet,Hayır,Finansal Güvence,10,1
+44,Bekâr,0–40K,Emekli,Hayır,Hayır,0–3000,Evet,2,2,5,3,Hayır,Hayır,Finansal Güvence,30,3
+37,Bekâr,120K+,Emekli,Evet,Hayır,0–3000,Hayır,4,1,2,1,Evet,Hayır,Çocukları Düşünme,20,2
+41,Evli,40K–80K,Çalışıyor,Hayır,Evet,7000+,Evet,2,4,1,4,Hayır,Evet,Finansal Güvence,40,3
+29,Evli,80K–120K,Emekli,Hayır,Hayır,3000–7000,Hayır,5,1,5,5,Evet,Hayır,Finansal Güvence,0,1
+67,Dul,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,1,2,4,5,Hayır,Hayır,Diğer,30,3
+52,Dul,120K+,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,1,5,1,3,Hayır,Evet,Zorunlu Gördüğü İçin,15,2
+77,Bekâr,80K–120K,Emekli,Hayır,Hayır,7000+,Hayır,5,5,3,3,Hayır,Evet,Finansal Güvence,25,2
+50,Dul,0–40K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,1,5,2,2,Evet,Evet,Diğer,15,2
+50,Dul,40K–80K,Çalışıyor,Hayır,Evet,7000+,Hayır,1,4,3,2,Hayır,Evet,Finansal Güvence,25,2
+78,Dul,40K–80K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,1,3,4,5,Hayır,Evet,Çocukları Düşünme,35,3
+68,Bekâr,0–40K,Çalışıyor,Evet,Hayır,3000–7000,Evet,4,3,1,3,Hayır,Hayır,Finansal Güvence,40,3
+60,Bekâr,0–40K,Çalışıyor,Evet,Evet,0–3000,Evet,4,1,4,1,Hayır,Hayır,Hastalık Korkusu,45,4
+54,Dul,40K–80K,Çalışmıyor,Evet,Hayır,7000+,Hayır,3,4,1,4,Evet,Evet,Diğer,20,2
+29,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,2,5,5,3,Evet,Hayır,Çocukları Düşünme,10,1
+20,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,5,5,2,3,Hayır,Hayır,Çocukları Düşünme,15,2
+18,Bekâr,40K–80K,Çalışıyor,Hayır,Evet,7000+,Hayır,5,2,5,2,Evet,Evet,Finansal Güvence,15,2
+50,Dul,40K–80K,Çalışmıyor,Evet,Evet,3000–7000,Evet,5,2,5,4,Hayır,Hayır,Finansal Güvence,35,3
+57,Dul,40K–80K,Emekli,Evet,Hayır,7000+,Evet,3,5,4,5,Evet,Hayır,Zorunlu Gördüğü İçin,30,3
+27,Evli,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Evet,4,5,2,3,Hayır,Evet,Hastalık Korkusu,35,3
+60,Evli,0–40K,Çalışmıyor,Hayır,Hayır,7000+,Evet,3,4,1,5,Hayır,Hayır,Hastalık Korkusu,20,2
+61,Evli,120K+,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,5,3,1,3,Evet,Hayır,Finansal Güvence,15,2
+46,Dul,80K–120K,Emekli,Evet,Evet,7000+,Evet,2,2,3,5,Hayır,Hayır,Çocukları Düşünme,40,3
+30,Bekâr,0–40K,Çalışıyor,Hayır,Hayır,7000+,Hayır,1,3,1,4,Hayır,Evet,Hastalık Korkusu,10,1
+29,Evli,40K–80K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,4,4,4,2,Evet,Hayır,Finansal Güvence,15,2
+48,Evli,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,4,5,5,4,Hayır,Hayır,Finansal Güvence,5,1
+63,Dul,40K–80K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,3,3,5,1,Hayır,Hayır,Çocukları Düşünme,25,2
+19,Dul,80K–120K,Öğrenci,Hayır,Hayır,7000+,Evet,4,5,5,2,Evet,Hayır,Hastalık Korkusu,20,2
+78,Dul,0–40K,Emekli,Evet,Hayır,3000–7000,Hayır,5,5,2,4,Evet,Hayır,Finansal Güvence,30,3
+68,Bekâr,80K–120K,Çalışmıyor,Hayır,Hayır,0–3000,Evet,5,1,1,1,Evet,Hayır,Finansal Güvence,40,3
+67,Bekâr,40K–80K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,3,3,4,3,Hayır,Evet,Finansal Güvence,20,2
+52,Evli,40K–80K,Emekli,Hayır,Hayır,0–3000,Evet,5,3,2,3,Evet,Hayır,Zorunlu Gördüğü İçin,25,2
+40,Evli,120K+,Çalışıyor,Hayır,Hayır,7000+,Evet,2,5,3,5,Hayır,Hayır,Çocukları Düşünme,25,2
+34,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,3,4,4,2,Hayır,Evet,Zorunlu Gördüğü İçin,20,2
+43,Evli,80K–120K,Çalışıyor,Hayır,Evet,3000–7000,Evet,2,1,4,3,Evet,Hayır,Hastalık Korkusu,30,3
+25,Evli,80K–120K,Emekli,Hayır,Hayır,7000+,Hayır,1,5,4,2,Hayır,Evet,Hastalık Korkusu,15,2
+46,Evli,40K–80K,Çalışıyor,Hayır,Evet,0–3000,Hayır,2,2,5,3,Evet,Hayır,Finansal Güvence,25,2
+43,Dul,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,1,2,4,5,Hayır,Hayır,Diğer,5,1
+27,Dul,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,1,1,1,4,Evet,Hayır,Hastalık Korkusu,5,1
+43,Bekâr,120K+,Çalışmıyor,Hayır,Evet,7000+,Hayır,2,4,4,5,Hayır,Hayır,Çocukları Düşünme,20,2
+79,Dul,80K–120K,Öğrenci,Hayır,Evet,7000+,Hayır,3,5,5,1,Hayır,Hayır,Hastalık Korkusu,30,3
+51,Dul,80K–120K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,5,3,4,3,Evet,Evet,Hastalık Korkusu,15,2
+68,Dul,40K–80K,Emekli,Hayır,Hayır,3000–7000,Hayır,5,1,3,1,Evet,Hayır,Finansal Güvence,15,2
+58,Evli,80K–120K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,1,4,3,1,Evet,Hayır,Finansal Güvence,10,1
+24,Evli,40K–80K,Öğrenci,Hayır,Evet,0–3000,Evet,1,3,5,2,Evet,Hayır,Zorunlu Gördüğü İçin,40,3
+21,Dul,0–40K,Çalışıyor,Hayır,Hayır,7000+,Evet,3,2,1,3,Hayır,Hayır,Çocukları Düşünme,15,2
+75,Bekâr,40K–80K,Çalışıyor,Hayır,Evet,7000+,Hayır,4,2,1,1,Evet,Hayır,Finansal Güvence,25,2
+70,Bekâr,40K–80K,Çalışıyor,Evet,Hayır,0–3000,Hayır,2,3,2,4,Evet,Hayır,Diğer,40,3
+67,Dul,80K–120K,Emekli,Hayır,Hayır,3000–7000,Hayır,1,1,5,1,Hayır,Hayır,Hastalık Korkusu,20,2
+62,Evli,0–40K,Çalışıyor,Evet,Hayır,3000–7000,Evet,5,2,4,4,Hayır,Evet,Finansal Güvence,45,4
+28,Bekâr,40K–80K,Çalışmıyor,Hayır,Hayır,0–3000,Hayır,3,5,5,2,Evet,Evet,Finansal Güvence,20,2
+46,Bekâr,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,2,3,2,1,Evet,Hayır,Finansal Güvence,20,2
+73,Bekâr,120K+,Çalışıyor,Evet,Evet,3000–7000,Evet,3,3,5,5,Evet,Hayır,Çocukları Düşünme,50,4
+53,Evli,0–40K,Çalışmıyor,Hayır,Hayır,7000+,Evet,2,2,5,2,Evet,Hayır,Çocukları Düşünme,20,2
+42,Bekâr,0–40K,Çalışıyor,Hayır,Hayır,7000+,Hayır,2,1,2,4,Hayır,Evet,Finansal Güvence,10,1
+38,Evli,40K–80K,Çalışmıyor,Evet,Hayır,7000+,Hayır,1,5,1,2,Evet,Evet,Çocukları Düşünme,25,2
+78,Dul,0–40K,Çalışıyor,Evet,Hayır,0–3000,Hayır,3,1,4,1,Hayır,Hayır,Çocukları Düşünme,35,3
+74,Dul,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,3,4,2,3,Hayır,Hayır,Hastalık Korkusu,20,2
+53,Evli,40K–80K,Çalışıyor,Hayır,Evet,7000+,Hayır,5,4,3,3,Hayır,Hayır,Hastalık Korkusu,15,2
+27,Dul,80K–120K,Emekli,Hayır,Hayır,7000+,Hayır,5,2,1,4,Hayır,Evet,Çocukları Düşünme,5,1
+54,Evli,120K+,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,1,2,3,4,Hayır,Evet,Finansal Güvence,10,1
+26,Dul,80K–120K,Öğrenci,Evet,Hayır,7000+,Hayır,1,2,1,3,Hayır,Evet,Hastalık Korkusu,20,2
+41,Dul,80K–120K,Emekli,Hayır,Evet,3000–7000,Hayır,4,4,4,4,Evet,Hayır,Çocukları Düşünme,15,2
+52,Bekâr,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,5,1,4,2,Evet,Evet,Çocukları Düşünme,5,1
+66,Bekâr,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,2,1,5,5,Evet,Hayır,Finansal Güvence,20,2
+52,Evli,0–40K,Çalışıyor,Hayır,Hayır,7000+,Hayır,3,2,3,5,Evet,Hayır,Finansal Güvence,0,1
+65,Evli,40K–80K,Çalışıyor,Hayır,Evet,0–3000,Hayır,1,5,1,2,Hayır,Hayır,Zorunlu Gördüğü İçin,45,4
+53,Dul,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Evet,3,1,4,5,Hayır,Evet,Finansal Güvence,20,2
+35,Bekâr,40K–80K,Emekli,Hayır,Hayır,3000–7000,Evet,3,4,2,1,Hayır,Evet,Hastalık Korkusu,25,2
+66,Bekâr,40K–80K,Emekli,Evet,Hayır,0–3000,Evet,4,3,4,2,Evet,Evet,Finansal Güvence,55,4
+56,Dul,0–40K,Öğrenci,Hayır,Hayır,3000–7000,Evet,5,3,2,4,Evet,Hayır,Finansal Güvence,15,2
+49,Bekâr,120K+,Çalışıyor,Hayır,Evet,3000–7000,Hayır,1,3,1,2,Evet,Hayır,Diğer,15,2
+41,Bekâr,40K–80K,Çalışmıyor,Evet,Hayır,7000+,Hayır,3,5,4,3,Hayır,Evet,Çocukları Düşünme,20,2
+40,Bekâr,40K–80K,Emekli,Evet,Hayır,3000–7000,Evet,1,2,4,4,Hayır,Evet,Finansal Güvence,35,3
+79,Evli,80K–120K,Emekli,Hayır,Hayır,7000+,Hayır,2,4,1,3,Evet,Evet,Finansal Güvence,30,3
+49,Bekâr,80K–120K,Çalışıyor,Hayır,Hayır,7000+,Hayır,4,5,4,4,Evet,Hayır,Finansal Güvence,5,1
+54,Dul,40K–80K,Çalışmıyor,Hayır,Hayır,0–3000,Hayır,2,4,2,5,Hayır,Hayır,Finansal Güvence,20,2
+29,Bekâr,40K–80K,Çalışıyor,Evet,Hayır,7000+,Hayır,1,4,4,2,Evet,Evet,Hastalık Korkusu,25,2
+66,Dul,40K–80K,Çalışıyor,Evet,Hayır,7000+,Hayır,1,2,3,1,Hayır,Hayır,Çocukları Düşünme,30,3
+72,Evli,0–40K,Çalışıyor,Hayır,Hayır,0–3000,Evet,5,3,5,4,Hayır,Hayır,Diğer,40,3
+30,Bekâr,0–40K,Öğrenci,Hayır,Hayır,7000+,Hayır,3,2,2,4,Hayır,Hayır,Finansal Güvence,0,1
+40,Dul,40K–80K,Emekli,Hayır,Hayır,3000–7000,Hayır,3,5,3,3,Evet,Hayır,Zorunlu Gördüğü İçin,5,1
+42,Bekâr,0–40K,Çalışıyor,Evet,Hayır,7000+,Hayır,2,5,1,5,Evet,Hayır,Çocukları Düşünme,20,2
+52,Dul,120K+,Öğrenci,Hayır,Evet,0–3000,Evet,4,5,2,3,Hayır,Evet,Finansal Güvence,45,4
+58,Evli,0–40K,Emekli,Hayır,Hayır,3000–7000,Evet,3,2,5,3,Evet,Hayır,Hastalık Korkusu,15,2
+47,Dul,0–40K,Çalışmıyor,Hayır,Hayır,3000–7000,Evet,5,4,5,5,Evet,Hayır,Finansal Güvence,20,2
+34,Bekâr,0–40K,Emekli,Hayır,Evet,3000–7000,Hayır,2,4,1,1,Hayır,Hayır,Hastalık Korkusu,20,2
+66,Evli,80K–120K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,2,1,1,3,Evet,Evet,Finansal Güvence,35,3
+79,Evli,40K–80K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,5,5,2,3,Evet,Evet,Çocukları Düşünme,25,2
+37,Bekâr,40K–80K,Çalışıyor,Hayır,Evet,0–3000,Hayır,4,4,4,4,Hayır,Evet,Finansal Güvence,30,3
+65,Bekâr,120K+,Çalışıyor,Evet,Hayır,7000+,Hayır,5,1,1,5,Hayır,Evet,Zorunlu Gördüğü İçin,30,3
+42,Evli,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,4,4,4,2,Evet,Hayır,Finansal Güvence,20,2
+39,Dul,0–40K,Emekli,Evet,Hayır,7000+,Hayır,5,5,3,1,Evet,Evet,Finansal Güvence,20,2
+30,Dul,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,5,3,5,1,Evet,Hayır,Hastalık Korkusu,0,1
+76,Bekâr,40K–80K,Çalışmıyor,Hayır,Hayır,0–3000,Evet,1,5,4,5,Evet,Hayır,Zorunlu Gördüğü İçin,50,4
+36,Evli,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Evet,2,2,5,4,Hayır,Evet,Zorunlu Gördüğü İçin,35,3
+66,Dul,120K+,Öğrenci,Hayır,Evet,7000+,Hayır,5,4,4,4,Evet,Hayır,Finansal Güvence,30,3
+53,Bekâr,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,5,4,3,5,Evet,Hayır,Hastalık Korkusu,5,1
+29,Dul,120K+,Çalışıyor,Hayır,Hayır,7000+,Hayır,3,2,1,4,Hayır,Hayır,Hastalık Korkusu,0,1
+78,Bekâr,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,2,2,3,1,Evet,Evet,Zorunlu Gördüğü İçin,25,2
+58,Evli,0–40K,Emekli,Hayır,Hayır,7000+,Hayır,3,3,1,1,Hayır,Hayır,Çocukları Düşünme,0,1
+36,Dul,0–40K,Emekli,Hayır,Hayır,3000–7000,Hayır,2,4,1,2,Hayır,Hayır,Finansal Güvence,10,1
+29,Dul,80K–120K,Emekli,Evet,Evet,3000–7000,Hayır,3,4,5,5,Evet,Hayır,Hastalık Korkusu,25,2
+26,Evli,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,5,3,3,3,Evet,Evet,Finansal Güvence,5,1
+24,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,5,1,4,3,Evet,Hayır,Finansal Güvence,0,1
+45,Bekâr,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,1,3,3,2,Evet,Evet,Finansal Güvence,10,1
+31,Dul,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,3,5,5,2,Hayır,Evet,Hastalık Korkusu,20,2
+48,Bekâr,0–40K,Emekli,Evet,Hayır,3000–7000,Hayır,4,4,1,4,Hayır,Hayır,Çocukları Düşünme,15,2
+69,Dul,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,1,2,5,2,Evet,Hayır,Çocukları Düşünme,20,2
+36,Dul,120K+,Çalışıyor,Hayır,Evet,3000–7000,Hayır,3,5,2,2,Hayır,Evet,Çocukları Düşünme,20,2
+75,Evli,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,3,4,2,3,Hayır,Hayır,Hastalık Korkusu,30,3
+64,Dul,0–40K,Çalışıyor,Hayır,Hayır,7000+,Hayır,1,3,4,4,Hayır,Evet,Hastalık Korkusu,25,2
+33,Bekâr,40K–80K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,5,5,5,2,Evet,Evet,Hastalık Korkusu,20,2
+70,Dul,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,3,4,4,2,Hayır,Hayır,Çocukları Düşünme,20,2
+22,Bekâr,0–40K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,5,1,4,4,Hayır,Hayır,Finansal Güvence,0,1
+52,Dul,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,1,1,2,5,Hayır,Evet,Hastalık Korkusu,25,2
+29,Evli,40K–80K,Çalışıyor,Evet,Hayır,7000+,Hayır,5,2,4,4,Hayır,Hayır,Çocukları Düşünme,10,1
+42,Evli,40K–80K,Çalışıyor,Evet,Hayır,7000+,Hayır,2,4,2,3,Hayır,Evet,Zorunlu Gördüğü İçin,25,2
+69,Bekâr,0–40K,Çalışıyor,Hayır,Evet,7000+,Hayır,4,1,1,5,Hayır,Hayır,Finansal Güvence,25,2
+76,Dul,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,3,3,5,1,Hayır,Evet,Finansal Güvence,20,2
+38,Bekâr,80K–120K,Çalışmıyor,Hayır,Hayır,0–3000,Hayır,4,4,4,4,Evet,Hayır,Diğer,15,2
+53,Evli,0–40K,Emekli,Hayır,Hayır,7000+,Hayır,5,3,2,3,Hayır,Evet,Hastalık Korkusu,5,1
+70,Bekâr,80K–120K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,3,3,3,5,Hayır,Hayır,Finansal Güvence,15,2
+40,Bekâr,0–40K,Çalışıyor,Hayır,Hayır,0–3000,Evet,5,1,4,4,Evet,Hayır,Çocukları Düşünme,25,2
+33,Bekâr,40K–80K,Emekli,Hayır,Hayır,7000+,Hayır,2,4,1,2,Hayır,Hayır,Hastalık Korkusu,10,1
+74,Bekâr,120K+,Çalışıyor,Hayır,Hayır,3000–7000,Evet,1,5,1,4,Hayır,Hayır,Hastalık Korkusu,40,3
+56,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,3,1,3,1,Evet,Evet,Çocukları Düşünme,5,1
+62,Evli,120K+,Çalışıyor,Hayır,Hayır,0–3000,Evet,2,1,2,4,Hayır,Evet,Hastalık Korkusu,50,4
+70,Evli,80K–120K,Çalışıyor,Evet,Hayır,3000–7000,Evet,2,4,4,5,Hayır,Evet,Hastalık Korkusu,55,4
+59,Dul,40K–80K,Çalışmıyor,Evet,Hayır,3000–7000,Hayır,3,4,2,5,Evet,Evet,Hastalık Korkusu,20,2
+75,Bekâr,0–40K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,5,3,1,4,Hayır,Hayır,Finansal Güvence,15,2
+56,Evli,120K+,Çalışıyor,Evet,Hayır,7000+,Hayır,2,4,2,5,Evet,Hayır,Zorunlu Gördüğü İçin,20,2
+31,Dul,40K–80K,Öğrenci,Evet,Evet,3000–7000,Hayır,4,3,1,2,Hayır,Hayır,Finansal Güvence,20,2
+48,Evli,40K–80K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,2,1,2,4,Hayır,Evet,Hastalık Korkusu,20,2
+75,Dul,120K+,Çalışıyor,Hayır,Hayır,3000–7000,Evet,5,2,3,2,Evet,Hayır,Hastalık Korkusu,30,3
+22,Dul,0–40K,Çalışıyor,Hayır,Hayır,7000+,Hayır,5,5,5,2,Hayır,Hayır,Finansal Güvence,5,1
+52,Dul,40K–80K,Emekli,Hayır,Hayır,3000–7000,Hayır,4,1,3,3,Hayır,Hayır,Diğer,0,1
+40,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,2,4,3,4,Evet,Hayır,Zorunlu Gördüğü İçin,20,2
+46,Bekâr,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,5,5,5,5,Hayır,Evet,Zorunlu Gördüğü İçin,10,1
+60,Dul,120K+,Emekli,Hayır,Hayır,3000–7000,Hayır,3,2,5,2,Hayır,Hayır,Finansal Güvence,0,1
+28,Dul,120K+,Çalışıyor,Evet,Hayır,3000–7000,Hayır,1,2,4,3,Hayır,Hayır,Zorunlu Gördüğü İçin,15,2
+35,Bekâr,0–40K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,1,3,4,4,Evet,Hayır,Çocukları Düşünme,15,2
+64,Evli,80K–120K,Emekli,Evet,Hayır,0–3000,Hayır,1,5,3,4,Evet,Evet,Zorunlu Gördüğü İçin,50,4
+29,Bekâr,0–40K,Öğrenci,Hayır,Hayır,7000+,Hayır,2,3,3,1,Evet,Hayır,Çocukları Düşünme,5,1
+26,Bekâr,120K+,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,4,1,1,1,Evet,Hayır,Finansal Güvence,0,1
+27,Dul,120K+,Emekli,Hayır,Hayır,7000+,Hayır,5,5,1,2,Evet,Hayır,Çocukları Düşünme,5,1
+75,Dul,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,3,1,4,1,Evet,Hayır,Hastalık Korkusu,25,2
+61,Bekâr,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,3,3,4,2,Hayır,Evet,Zorunlu Gördüğü İçin,20,2
+34,Bekâr,120K+,Çalışmıyor,Evet,Hayır,3000–7000,Evet,2,5,1,5,Hayır,Hayır,Çocukları Düşünme,35,3
+78,Bekâr,120K+,Çalışmıyor,Hayır,Hayır,3000–7000,Evet,1,3,1,2,Hayır,Hayır,Hastalık Korkusu,35,3
+55,Dul,120K+,Çalışıyor,Hayır,Evet,3000–7000,Hayır,2,5,2,1,Hayır,Hayır,Çocukları Düşünme,20,2
+24,Bekâr,80K–120K,Emekli,Hayır,Evet,3000–7000,Evet,4,3,2,5,Evet,Hayır,Finansal Güvence,25,2
+63,Bekâr,0–40K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,4,2,1,1,Evet,Hayır,Finansal Güvence,25,2
+30,Evli,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,5,3,2,2,Hayır,Evet,Finansal Güvence,5,1
+57,Bekâr,0–40K,Öğrenci,Hayır,Evet,3000–7000,Hayır,5,2,5,3,Hayır,Evet,Çocukları Düşünme,15,2
+59,Dul,120K+,Çalışıyor,Hayır,Hayır,3000–7000,Evet,4,3,4,4,Hayır,Hayır,Diğer,15,2
+26,Bekâr,0–40K,Çalışıyor,Hayır,Hayır,0–3000,Evet,4,5,4,1,Hayır,Evet,Finansal Güvence,35,3
+67,Dul,120K+,Öğrenci,Hayır,Hayır,7000+,Evet,4,5,1,2,Hayır,Hayır,Çocukları Düşünme,35,3
+44,Bekâr,40K–80K,Emekli,Hayır,Hayır,0–3000,Hayır,2,5,3,5,Evet,Hayır,Finansal Güvence,20,2
+75,Dul,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,4,4,1,1,Evet,Hayır,Çocukları Düşünme,20,2
+19,Dul,120K+,Çalışıyor,Evet,Evet,3000–7000,Evet,3,1,2,1,Hayır,Hayır,Hastalık Korkusu,35,3
+22,Dul,80K–120K,Çalışıyor,Evet,Hayır,7000+,Hayır,1,5,3,4,Evet,Hayır,Finansal Güvence,20,2
+46,Bekâr,40K–80K,Çalışıyor,Evet,Hayır,7000+,Hayır,4,2,2,2,Evet,Hayır,Finansal Güvence,10,1
+54,Evli,0–40K,Çalışmıyor,Hayır,Hayır,0–3000,Evet,1,5,5,3,Hayır,Evet,Hastalık Korkusu,40,3
+55,Dul,0–40K,Emekli,Hayır,Hayır,3000–7000,Evet,2,4,2,5,Hayır,Hayır,Finansal Güvence,25,2
+36,Dul,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,1,2,5,2,Hayır,Hayır,Çocukları Düşünme,5,1
+25,Dul,40K–80K,Çalışıyor,Evet,Hayır,0–3000,Hayır,2,4,5,5,Evet,Evet,Hastalık Korkusu,35,3
+65,Evli,0–40K,Çalışmıyor,Hayır,Hayır,7000+,Evet,3,2,2,1,Hayır,Evet,Finansal Güvence,35,3
+62,Evli,0–40K,Çalışıyor,Hayır,Hayır,7000+,Evet,2,3,2,4,Hayır,Hayır,Çocukları Düşünme,35,3
+18,Bekâr,80K–120K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,2,1,5,4,Hayır,Evet,Zorunlu Gördüğü İçin,20,2
+39,Dul,80K–120K,Çalışıyor,Hayır,Hayır,7000+,Hayır,5,1,3,3,Evet,Hayır,Çocukları Düşünme,0,1
+69,Dul,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,4,4,5,4,Evet,Hayır,Hastalık Korkusu,20,2
+34,Dul,80K–120K,Emekli,Hayır,Hayır,3000–7000,Evet,4,1,4,1,Hayır,Hayır,Diğer,15,2
+24,Bekâr,0–40K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,3,4,5,3,Evet,Hayır,Diğer,15,2
+42,Evli,80K–120K,Çalışmıyor,Hayır,Hayır,0–3000,Hayır,3,4,3,2,Hayır,Hayır,Finansal Güvence,15,2
+62,Bekâr,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,4,4,4,4,Evet,Hayır,Çocukları Düşünme,35,3
+21,Dul,80K–120K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,5,1,1,3,Evet,Hayır,Finansal Güvence,10,1
+53,Bekâr,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,4,4,1,1,Hayır,Hayır,Diğer,15,2
+23,Dul,0–40K,Çalışmıyor,Hayır,Hayır,0–3000,Hayır,5,1,3,5,Evet,Hayır,Finansal Güvence,10,1
+77,Dul,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,3,4,5,5,Evet,Evet,Zorunlu Gördüğü İçin,35,3
+48,Evli,0–40K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,1,5,2,1,Evet,Hayır,Finansal Güvence,20,2
+36,Dul,0–40K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,3,4,3,1,Hayır,Hayır,Finansal Güvence,15,2
+78,Evli,40K–80K,Çalışıyor,Evet,Evet,0–3000,Hayır,3,2,4,5,Hayır,Hayır,Çocukları Düşünme,45,4
+61,Bekâr,0–40K,Emekli,Evet,Hayır,3000–7000,Hayır,2,4,4,3,Hayır,Hayır,Finansal Güvence,35,3
+71,Evli,0–40K,Çalışmıyor,Hayır,Hayır,3000–7000,Evet,2,3,1,5,Evet,Hayır,Hastalık Korkusu,35,3
+56,Bekâr,0–40K,Çalışmıyor,Evet,Hayır,3000–7000,Evet,2,4,4,1,Evet,Hayır,Çocukları Düşünme,35,3
+44,Bekâr,80K–120K,Emekli,Hayır,Hayır,3000–7000,Hayır,2,2,3,4,Hayır,Hayır,Finansal Güvence,5,1
+27,Dul,120K+,Emekli,Hayır,Hayır,0–3000,Hayır,5,2,4,2,Evet,Hayır,Çocukları Düşünme,10,1
+43,Evli,40K–80K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,4,1,3,4,Hayır,Hayır,Finansal Güvence,0,1
+36,Evli,80K–120K,Emekli,Hayır,Hayır,7000+,Hayır,1,5,2,4,Evet,Hayır,Çocukları Düşünme,10,1
+56,Dul,0–40K,Çalışıyor,Hayır,Evet,3000–7000,Evet,3,4,1,1,Evet,Hayır,Zorunlu Gördüğü İçin,30,3
+79,Bekâr,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Evet,5,1,4,5,Evet,Hayır,Finansal Güvence,30,3
+20,Evli,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,1,5,3,3,Evet,Evet,Zorunlu Gördüğü İçin,25,2
+62,Dul,0–40K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,5,4,5,4,Hayır,Evet,Finansal Güvence,25,2
+30,Evli,0–40K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,5,3,1,5,Hayır,Hayır,Finansal Güvence,0,1
+67,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Evet,3,4,2,3,Evet,Evet,Diğer,50,4
+45,Evli,40K–80K,Çalışıyor,Evet,Hayır,7000+,Hayır,4,2,3,4,Hayır,Hayır,Çocukları Düşünme,10,1
+79,Evli,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,2,2,2,3,Evet,Hayır,Finansal Güvence,20,2
+75,Evli,80K–120K,Çalışıyor,Hayır,Evet,3000–7000,Hayır,4,3,2,5,Hayır,Hayır,Finansal Güvence,25,2
+37,Dul,80K–120K,Emekli,Evet,Hayır,7000+,Hayır,3,1,4,2,Evet,Evet,Çocukları Düşünme,15,2
+45,Dul,40K–80K,Emekli,Hayır,Evet,3000–7000,Evet,3,5,4,5,Evet,Hayır,Çocukları Düşünme,30,3
+25,Dul,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,3,4,3,1,Hayır,Hayır,Diğer,5,1
+78,Evli,120K+,Öğrenci,Hayır,Hayır,7000+,Hayır,1,2,5,3,Hayır,Hayır,Zorunlu Gördüğü İçin,20,2
+58,Bekâr,0–40K,Çalışmıyor,Hayır,Hayır,7000+,Evet,4,1,3,2,Hayır,Hayır,Finansal Güvence,15,2
+56,Bekâr,40K–80K,Emekli,Hayır,Evet,3000–7000,Hayır,4,3,5,3,Hayır,Evet,Hastalık Korkusu,15,2
+18,Bekâr,0–40K,Öğrenci,Hayır,Hayır,0–3000,Hayır,5,2,2,3,Hayır,Evet,Finansal Güvence,15,2
+20,Bekâr,0–40K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,5,3,1,4,Hayır,Hayır,Diğer,0,1
+30,Bekâr,0–40K,Çalışıyor,Hayır,Hayır,7000+,Hayır,5,4,3,1,Evet,Hayır,Finansal Güvence,5,1
+45,Evli,80K–120K,Çalışmıyor,Evet,Evet,3000–7000,Evet,3,5,3,3,Evet,Hayır,Çocukları Düşünme,40,3
+79,Dul,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,4,2,5,5,Hayır,Evet,Finansal Güvence,20,2
+74,Evli,40K–80K,Emekli,Hayır,Hayır,7000+,Hayır,3,2,2,5,Hayır,Hayır,Hastalık Korkusu,15,2
+77,Bekâr,40K–80K,Öğrenci,Evet,Evet,7000+,Hayır,1,4,2,4,Hayır,Evet,Zorunlu Gördüğü İçin,50,4
+66,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Evet,5,1,5,1,Hayır,Evet,Hastalık Korkusu,45,4
+42,Evli,40K–80K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,3,5,2,1,Evet,Hayır,Hastalık Korkusu,5,1
+73,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,3,2,4,5,Hayır,Hayır,Hastalık Korkusu,15,2
+50,Bekâr,0–40K,Emekli,Hayır,Hayır,3000–7000,Hayır,1,5,1,2,Evet,Hayır,Diğer,10,1
+55,Dul,0–40K,Emekli,Hayır,Hayır,7000+,Hayır,2,2,3,4,Hayır,Evet,Finansal Güvence,10,1
+70,Evli,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,4,5,1,4,Hayır,Hayır,Zorunlu Gördüğü İçin,35,3
+23,Dul,80K–120K,Emekli,Evet,Hayır,0–3000,Hayır,2,3,3,5,Evet,Hayır,Diğer,25,2
+75,Bekâr,0–40K,Emekli,Hayır,Hayır,0–3000,Hayır,5,2,4,5,Hayır,Hayır,Zorunlu Gördüğü İçin,25,2
+61,Evli,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Evet,3,5,2,2,Evet,Hayır,Çocukları Düşünme,45,4
+62,Bekâr,80K–120K,Çalışmıyor,Hayır,Evet,3000–7000,Hayır,1,1,5,2,Evet,Evet,Hastalık Korkusu,35,3
+49,Dul,0–40K,Emekli,Evet,Evet,3000–7000,Hayır,1,3,4,1,Hayır,Hayır,Zorunlu Gördüğü İçin,25,2
+62,Dul,40K–80K,Çalışmıyor,Evet,Hayır,7000+,Hayır,4,3,1,4,Evet,Hayır,Hastalık Korkusu,25,2
+78,Evli,0–40K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,2,1,5,4,Evet,Evet,Zorunlu Gördüğü İçin,25,2
+64,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,4,5,2,5,Evet,Hayır,Zorunlu Gördüğü İçin,30,3
+38,Bekâr,40K–80K,Emekli,Hayır,Hayır,3000–7000,Hayır,3,4,4,1,Hayır,Evet,Finansal Güvence,10,1
+33,Dul,40K–80K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,4,1,5,4,Hayır,Evet,Hastalık Korkusu,5,1
+71,Evli,0–40K,Çalışmıyor,Evet,Hayır,3000–7000,Evet,1,5,4,1,Hayır,Hayır,Çocukları Düşünme,50,4
+38,Dul,40K–80K,Çalışmıyor,Hayır,Hayır,0–3000,Evet,1,1,4,1,Hayır,Hayır,Hastalık Korkusu,30,3
+28,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,5,1,2,5,Hayır,Evet,Zorunlu Gördüğü İçin,20,2
+77,Bekâr,0–40K,Öğrenci,Hayır,Hayır,0–3000,Hayır,5,2,3,1,Hayır,Evet,Hastalık Korkusu,30,3
+54,Bekâr,0–40K,Emekli,Hayır,Hayır,3000–7000,Hayır,3,5,5,2,Evet,Hayır,Zorunlu Gördüğü İçin,5,1
+53,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,2,4,2,2,Hayır,Hayır,Çocukları Düşünme,25,2
+52,Dul,0–40K,Çalışıyor,Hayır,Hayır,7000+,Hayır,4,2,4,3,Hayır,Hayır,Zorunlu Gördüğü İçin,0,1
+36,Dul,40K–80K,Çalışıyor,Evet,Hayır,7000+,Hayır,3,1,2,5,Hayır,Evet,Diğer,15,2
+37,Bekâr,80K–120K,Çalışıyor,Hayır,Evet,3000–7000,Evet,5,1,3,3,Hayır,Hayır,Finansal Güvence,25,2
+74,Dul,40K–80K,Çalışıyor,Evet,Hayır,0–3000,Evet,4,1,5,2,Evet,Hayır,Çocukları Düşünme,50,4
+35,Bekâr,40K–80K,Çalışıyor,Hayır,Evet,7000+,Hayır,5,5,3,3,Hayır,Hayır,Finansal Güvence,15,2
+64,Dul,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,4,5,1,5,Evet,Hayır,Diğer,20,2
+58,Bekâr,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,2,2,5,5,Hayır,Evet,Çocukları Düşünme,10,1
+66,Evli,40K–80K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,3,4,3,1,Evet,Evet,Hastalık Korkusu,25,2
+31,Bekâr,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,4,2,4,4,Hayır,Hayır,Finansal Güvence,15,2
+32,Bekâr,80K–120K,Çalışıyor,Hayır,Hayır,7000+,Hayır,1,3,5,1,Evet,Evet,Finansal Güvence,10,1
+48,Dul,40K–80K,Emekli,Hayır,Hayır,7000+,Hayır,1,1,5,5,Hayır,Hayır,Finansal Güvence,5,1
+18,Evli,80K–120K,Öğrenci,Hayır,Evet,0–3000,Hayır,4,1,2,2,Hayır,Hayır,Hastalık Korkusu,20,2
+70,Evli,80K–120K,Emekli,Hayır,Evet,7000+,Hayır,4,1,4,2,Hayır,Evet,Hastalık Korkusu,30,3
+71,Dul,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,4,2,1,1,Hayır,Hayır,Zorunlu Gördüğü İçin,15,2
+71,Evli,0–40K,Çalışıyor,Hayır,Hayır,7000+,Hayır,1,2,3,5,Hayır,Hayır,Zorunlu Gördüğü İçin,20,2
+20,Evli,40K–80K,Çalışmıyor,Hayır,Hayır,7000+,Hayır,1,1,2,2,Hayır,Hayır,Hastalık Korkusu,5,1
+33,Bekâr,0–40K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,4,2,3,5,Hayır,Hayır,Çocukları Düşünme,0,1
+40,Dul,120K+,Emekli,Hayır,Hayır,7000+,Hayır,5,5,1,2,Hayır,Hayır,Çocukları Düşünme,5,1
+74,Bekâr,120K+,Emekli,Evet,Hayır,7000+,Hayır,5,5,1,5,Hayır,Hayır,Çocukları Düşünme,30,3
+28,Dul,0–40K,Emekli,Evet,Evet,3000–7000,Hayır,2,2,5,3,Evet,Hayır,Hastalık Korkusu,25,2
+29,Dul,120K+,Öğrenci,Evet,Hayır,7000+,Evet,3,1,1,5,Evet,Hayır,Zorunlu Gördüğü İçin,25,2
+27,Evli,0–40K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,5,2,3,5,Hayır,Hayır,Zorunlu Gördüğü İçin,10,1
+49,Dul,40K–80K,Öğrenci,Evet,Hayır,3000–7000,Hayır,1,2,4,1,Hayır,Evet,Finansal Güvence,20,2
+33,Bekâr,80K–120K,Çalışıyor,Evet,Hayır,0–3000,Hayır,5,2,4,3,Hayır,Hayır,Finansal Güvence,20,2
+25,Dul,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,2,3,5,4,Hayır,Hayır,Finansal Güvence,5,1
+55,Dul,120K+,Çalışıyor,Hayır,Evet,3000–7000,Hayır,2,5,3,1,Hayır,Hayır,Hastalık Korkusu,20,2
+29,Bekâr,40K–80K,Çalışıyor,Evet,Hayır,7000+,Evet,3,4,3,4,Evet,Evet,Hastalık Korkusu,35,3
+41,Evli,40K–80K,Çalışıyor,Evet,Hayır,7000+,Hayır,5,4,1,2,Hayır,Evet,Çocukları Düşünme,20,2
+45,Dul,120K+,Öğrenci,Hayır,Hayır,0–3000,Hayır,1,3,3,4,Hayır,Hayır,Diğer,15,2
+70,Evli,40K–80K,Emekli,Hayır,Hayır,7000+,Hayır,1,2,2,5,Evet,Evet,Çocukları Düşünme,25,2
+25,Dul,80K–120K,Öğrenci,Hayır,Hayır,7000+,Hayır,4,3,1,4,Hayır,Evet,Finansal Güvence,5,1
+75,Dul,120K+,Çalışmıyor,Hayır,Hayır,0–3000,Hayır,1,3,2,1,Hayır,Hayır,Zorunlu Gördüğü İçin,30,3
+45,Dul,40K–80K,Çalışıyor,Evet,Evet,3000–7000,Hayır,3,1,5,1,Hayır,Hayır,Çocukları Düşünme,20,2
+53,Dul,40K–80K,Öğrenci,Evet,Evet,7000+,Hayır,3,5,4,4,Evet,Hayır,Finansal Güvence,25,2
+43,Dul,40K–80K,Çalışmıyor,Hayır,Hayır,3000–7000,Evet,1,4,5,1,Hayır,Hayır,Finansal Güvence,25,2
+25,Dul,40K–80K,Öğrenci,Evet,Evet,3000–7000,Hayır,1,2,4,1,Hayır,Hayır,Çocukları Düşünme,25,2
+75,Bekâr,40K–80K,Emekli,Evet,Hayır,7000+,Evet,4,4,5,4,Hayır,Hayır,Çocukları Düşünme,45,4
+77,Dul,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,1,4,3,3,Evet,Hayır,Hastalık Korkusu,25,2
+67,Evli,0–40K,Çalışmıyor,Evet,Hayır,0–3000,Hayır,4,5,2,3,Hayır,Hayır,Hastalık Korkusu,40,3
+45,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,4,4,4,2,Hayır,Evet,Finansal Güvence,20,2
+45,Bekâr,40K–80K,Çalışıyor,Evet,Hayır,3000–7000,Evet,1,4,1,1,Hayır,Hayır,Finansal Güvence,35,3
+54,Dul,80K–120K,Çalışmıyor,Hayır,Evet,3000–7000,Hayır,2,3,2,4,Evet,Hayır,Hastalık Korkusu,15,2
+58,Dul,0–40K,Çalışıyor,Evet,Hayır,0–3000,Hayır,2,5,1,1,Hayır,Evet,Hastalık Korkusu,35,3
+53,Bekâr,0–40K,Emekli,Evet,Evet,7000+,Evet,4,1,2,5,Hayır,Evet,Zorunlu Gördüğü İçin,40,3
+44,Dul,0–40K,Öğrenci,Evet,Hayır,7000+,Hayır,1,2,2,1,Evet,Evet,Finansal Güvence,20,2
+71,Dul,0–40K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,2,4,5,1,Evet,Hayır,Hastalık Korkusu,25,2
+34,Evli,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,1,2,4,3,Hayır,Hayır,Hastalık Korkusu,5,1
+26,Evli,40K–80K,Öğrenci,Hayır,Hayır,3000–7000,Evet,1,1,4,4,Hayır,Evet,Çocukları Düşünme,25,2
+50,Evli,40K–80K,Öğrenci,Evet,Hayır,0–3000,Evet,1,2,2,1,Evet,Evet,Finansal Güvence,45,4
+70,Dul,80K–120K,Çalışıyor,Hayır,Evet,0–3000,Hayır,5,1,3,3,Evet,Hayır,Hastalık Korkusu,35,3
+37,Bekâr,0–40K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,1,3,3,2,Hayır,Evet,Diğer,10,1
+30,Dul,40K–80K,Öğrenci,Evet,Hayır,7000+,Evet,5,4,1,3,Hayır,Hayır,Diğer,30,3
+45,Evli,0–40K,Öğrenci,Evet,Hayır,7000+,Hayır,4,1,1,3,Hayır,Hayır,Finansal Güvence,10,1
+65,Evli,120K+,Çalışıyor,Hayır,Evet,3000–7000,Hayır,2,2,5,3,Evet,Hayır,Çocukları Düşünme,30,3
+46,Dul,80K–120K,Çalışmıyor,Hayır,Hayır,3000–7000,Hayır,2,4,2,1,Hayır,Hayır,Hastalık Korkusu,10,1
+30,Dul,0–40K,Öğrenci,Hayır,Hayır,7000+,Evet,2,3,1,1,Hayır,Hayır,Zorunlu Gördüğü İçin,20,2
+63,Evli,80K–120K,Çalışıyor,Evet,Hayır,3000–7000,Evet,2,4,1,2,Evet,Evet,Diğer,55,4
+52,Bekâr,40K–80K,Emekli,Hayır,Evet,3000–7000,Hayır,2,1,2,5,Evet,Evet,Hastalık Korkusu,20,2
+78,Evli,80K–120K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,2,3,5,5,Hayır,Hayır,Çocukları Düşünme,20,2
+23,Dul,80K–120K,Öğrenci,Hayır,Hayır,3000–7000,Hayır,2,2,1,5,Hayır,Hayır,Zorunlu Gördüğü İçin,5,1
+35,Evli,0–40K,Çalışıyor,Hayır,Hayır,0–3000,Evet,4,3,5,2,Evet,Hayır,Diğer,25,2
+68,Bekâr,0–40K,Emekli,Evet,Evet,3000–7000,Hayır,1,3,4,5,Evet,Hayır,Finansal Güvence,40,3
+22,Evli,0–40K,Çalışıyor,Hayır,Hayır,7000+,Evet,3,5,5,5,Hayır,Evet,Finansal Güvence,25,2
+64,Dul,0–40K,Emekli,Evet,Hayır,0–3000,Hayır,5,3,3,3,Hayır,Hayır,Hastalık Korkusu,35,3
+42,Evli,40K–80K,Çalışmıyor,Hayır,Hayır,7000+,Hayır,3,3,3,1,Evet,Hayır,Çocukları Düşünme,0,1
+19,Bekâr,80K–120K,Emekli,Hayır,Hayır,3000–7000,Hayır,3,4,5,1,Evet,Evet,Hastalık Korkusu,10,1
+27,Dul,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,1,2,3,3,Hayır,Hayır,Finansal Güvence,5,1
+73,Dul,80K–120K,Çalışıyor,Hayır,Hayır,7000+,Hayır,1,4,4,3,Hayır,Evet,Diğer,30,3
+47,Dul,40K–80K,Çalışıyor,Evet,Evet,3000–7000,Hayır,1,4,2,3,Hayır,Hayır,Finansal Güvence,30,3
+67,Bekâr,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,2,1,3,1,Hayır,Evet,Hastalık Korkusu,25,2
+76,Dul,0–40K,Çalışıyor,Evet,Hayır,3000–7000,Hayır,4,4,3,5,Evet,Hayır,Finansal Güvence,30,3
+62,Evli,80K–120K,Çalışıyor,Evet,Hayır,0–3000,Hayır,2,5,5,3,Evet,Hayır,Finansal Güvence,45,4
+22,Bekâr,0–40K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,4,5,4,2,Hayır,Hayır,Finansal Güvence,5,1
+72,Evli,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,4,1,2,3,Evet,Hayır,Zorunlu Gördüğü İçin,15,2
+73,Bekâr,0–40K,Emekli,Hayır,Hayır,7000+,Hayır,3,2,5,4,Evet,Evet,Hastalık Korkusu,20,2
+50,Bekâr,80K–120K,Öğrenci,Evet,Hayır,0–3000,Hayır,3,2,5,3,Hayır,Hayır,Finansal Güvence,20,2
+71,Dul,80K–120K,Emekli,Evet,Hayır,0–3000,Hayır,4,4,4,1,Hayır,Hayır,Çocukları Düşünme,40,3
+18,Evli,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Hayır,4,4,2,3,Hayır,Evet,Diğer,10,1
+35,Bekâr,40K–80K,Çalışıyor,Hayır,Hayır,7000+,Hayır,2,4,4,4,Evet,Hayır,Çocukları Düşünme,10,1
+49,Bekâr,40K–80K,Çalışmıyor,Evet,Hayır,0–3000,Hayır,2,2,2,2,Evet,Evet,Zorunlu Gördüğü İçin,30,3
+64,Dul,40K–80K,Çalışıyor,Hayır,Hayır,0–3000,Hayır,3,3,4,5,Evet,Hayır,Hastalık Korkusu,25,2
+66,Dul,40K–80K,Çalışıyor,Hayır,Hayır,3000–7000,Evet,1,5,5,3,Hayır,Hayır,Hastalık Korkusu,40,3
