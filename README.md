@@ -98,6 +98,7 @@
 * Ürün denemeleri yapıldı ve değiştirilmeye karar verildi
 * Ürün dataseti değişkenlikler olmasına karar verildi.
 * Görev tarihlerinde değişiklik yapıldı.
-  #Ürün Deneme Görselli
+
+#Ürün Deneme Görselli
   ![WhatsApp Görsel 2025-07-07 saat 20 34 45_436bc8a5](https://github.com/user-attachments/assets/5410244f-849b-4b70-ab91-468d2cbc1ad0)
 
