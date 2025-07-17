@@ -4,7 +4,7 @@
 
 * İsmail Tekin: Scrum Master / Developer
 * İhsan Tutak: Product Owner /Developer
-* Erdem Erçetin: Aktif Olmayan Üye 
+* Erdem Erçetin: Contributor / Developer 
 * Selin Karaman: Aktif Olmayan Üye
 * Bedriye Çağlayan: Aktif Olmayan Üye
 ---
