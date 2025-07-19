@@ -4,7 +4,7 @@
 
 * İsmail Tekin: Scrum Master / Developer
 * İhsan Tutak: Product Owner /Developer
-* Erdem Erçetin: Contributor / Developer 
+* Erdem Erçetin: Developer 
 * Selin Karaman: Aktif Olmayan Üye
 * Bedriye Çağlayan: Aktif Olmayan Üye
 ---
@@ -103,4 +103,31 @@
 
 #Ürün Deneme Görselli
   ![WhatsApp Görsel 2025-07-07 saat 20 34 45_436bc8a5](https://github.com/user-attachments/assets/5410244f-849b-4b70-ab91-468d2cbc1ad0)
+
+  ## **Sprint 2**
+   **Sprint içinde tamamlanması tahmin edilen puan*:120 Puan 
+   **Daily Scrum*: Daily Scrum toplantıları belirtilen tarihlerde grup üyeleri ile yapılmıştır.
+   <img width="1880" height="530" alt="Ekran görüntüsü 2025-07-08 195336" src="https://github.com/user-attachments/assets/0f267e48-18f1-4935-9d1c-36578564a514" />
+<img width="1899" height="945" alt="Ekran görüntüsü 2025-07-14 203637" src="https://github.com/user-attachments/assets/d349aa08-3379-4eed-b41c-1b24bb282c39" />
+
+##Sprint Board:
+<img width="1831" height="892" alt="Ekran görüntüsü 2025-07-14 212347" src="https://github.com/user-attachments/assets/26d1aac6-3b2b-4599-8cc1-b804c08feed9" />
+ * *Sprint Review*: Veri konusunda netlik sağlanmıştır ve data kesinleştir. 2. Spirint görev yükü azaltılıp son sprintte ürünün tamamlanmasına karar verilmiştir Katılımcılar: İsmail Tekin,İhsan Tutak ve Erdem Erçetin
+ * * *Sprint Retrospective*
+   * Takım içinde görevler verilip görev dağılımından sonra yapılacak. Tekrar toplantı alınmasına karar verildi
+   * Hangi modeller çalışalıcağımız hakkındaki fikir ayrılıklarından dolayı farklı modeller denenmeye karar verilmiştir.
+   * İletişim önemi hakkında vurgu yapılmıştır. Gerekli kişilere uyarılarda bulunulmuştur. Takım çalışmasının önemi vurgulanmıştır.
+# Sprint Notları
+* Ürün arayüzü hakkında kesinlik sağlandı
+* Modeller ile ilgili denemeler yapıldı
+* Görev tarihleri ve ürün deneme tarihleri belirlendi.
+
+
+  #Ürün Deneme Görselli
+  <img width="1841" height="910" alt="Ekran görüntüsü 2025-07-15 154825" src="https://github.com/user-attachments/assets/5c2f43aa-3c18-4122-8f1a-2a8a88903930" />
+
+
+
+   
+
 
