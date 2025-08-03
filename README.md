@@ -125,6 +125,21 @@
 
   #Ürün Deneme Görselli
   <img width="1841" height="910" alt="Ekran görüntüsü 2025-07-15 154825" src="https://github.com/user-attachments/assets/5c2f43aa-3c18-4122-8f1a-2a8a88903930" />
+  ## **Sprint 3**
+  **Sprint içinde tamamlanması gereken puan 140: Tamamlanan puan 120 bazı yerlerdeki hatalar düzeltilemese de  ürünü ortaya koyduk.Takım için hedefimize ulaşmış olmaktayız.
+  **Daily Scrum** : Görüşme yapılmamasına karar vermekle birlikte whatsap üzerinden konuşmalar gerçekleşmiştir.
+  <img width="737" height="144" alt="image" src="https://github.com/user-attachments/assets/5fdf559b-120d-408b-aaba-93f0e624db6a" />
+**Sprint Retrospective*
+  * Uygulama arayüzünde kararlar verildi.
+  * Poliçeler eklendi
+  * Uygulama denendi ve hatalar üzerinde çalışıldı.
+    #Sprint notları
+    *Ürün oluşturuldu
+    *Ürün bitiş tarihine dikkat çekildi çalışmalar üzerinde duruldu
+
+ #Ürün Deneme Görseli
+ <img width="1713" height="784" alt="image" src="https://github.com/user-attachments/assets/a467b9a3-952f-4929-95b6-2ff344645f8e" />
+
 
 
 
